@@ -34,7 +34,7 @@
   font-weight: 400;
   font-size: 14px;
   font-family: Hind, sans-serif;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.15em;
   padding: 05px 5px;
   color: #595959;
   display: block;
@@ -468,10 +468,11 @@ a.effect-shine:hover {
   z-index: 1;
   background: #fff; }
 
-.footer-list {
+.footer-list > a {
   padding: 10px;
-  padding-inline-start: 10px;
-  font-size: 25px; }
+  padding-inline-start: 2px;
+  font-size: 25px;
+  color: #595959; }
 
 .fa-facebook-f:hover {
   color: #2e60e7; }
