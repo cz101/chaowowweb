@@ -2,15 +2,10 @@
     padding: 0px;
 }
 
-.section3, .section7 {
-
+.section3 {
     padding: 200px;
-
 }
 
-.navbar {
- height:32px; 
-}
 
 .parallax1 {
     min-height: 700px;
@@ -26,12 +21,22 @@
     margin-top: -190px;
 }
 
+/*
+ navagation meun
+*/
+
+.navbar {
+    height:32px; 
+    border: none;
+    border-radius: 0;
+   }
+
 .navbar {
     float: right;
 }
 
 .navbar {
-    padding-right: 0px ;
+    padding-left: 5px ;
 }
 
 .nav-item {
@@ -51,10 +56,20 @@
     padding: 4px 15px 4px 20px;
     font-size: 0.875rem;
     font-weight: 400;
-    letter-spacing: normal;
+    letter-spacing: 0.1em ;
     font-family: Hind, sans-serif;
     text-align: left;
 }
+
+
+/*Intro section*/
+
+ .intro{
+    padding: 200px 50px 100px;
+
+    
+}
+
 
 //section1 
 
@@ -113,7 +128,7 @@
     background-size: cover;
 }
 
-.s4-context, .s7-content {
+.s4-context {
     z-index: 2;
     position: relative;
 }
@@ -241,7 +256,7 @@
     color: #595959;
 }
 
-// home page //@at-root
+/* home page */
 .parallax3 {
     /* min-height: 400px; */
     padding: 100px 50px;
@@ -249,16 +264,25 @@
    // background-size: cover;
 }
 
+.homeparallax {
+     
+    padding: 100px 50px;
+    background: transparent;
+   // background-size: cover;
+}
+
+
 .parallax-window {
     min-height: 400px;
     background: transparent;
 }
-.s7-text {
+
+.intro-text {
     background-color: rgba(255, 255, 255, 0.863);
     padding: 120px 80px;
 }
 
-.s7-title {
+.intro-title {
     font-family: "Hind", Sans-serif;
     font-weight: 300;
     line-height: 1.2;
@@ -267,7 +291,7 @@
     color: #303030;
 }
 
-.s7-sub {
+.intro-sub {
     color: #474747;
     font-family: "Muli", Sans-serif;
     font-size: 18px;
@@ -276,7 +300,7 @@
     letter-spacing: 0em;
 }
 
-.s7-btn {
+.intro-btn {
     font-size: 12px;
     font-weight: 700;
     color: #ffffff;
@@ -294,7 +318,7 @@
 } 
 
 
-.s7-btn:focus, .s7-btn:hover {
+.intro-btn:focus, .intro-btn:hover {
     color: #fff;
     background-color: #101010;
     border-color: #101010;
@@ -303,7 +327,10 @@
 }
 
 
-
+.intro-content {
+    z-index: 2;
+    position: relative;
+}
 
 // work page //@at-root
 .section3 {
@@ -420,7 +447,8 @@
 
     background-color: #fff;
     background-image: url("../img/project-8.jpg");
-	color: #3c4a50;
+    color: #3c4a50;
+    
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;
 	-webkit-transform: translate3d(0,100%,0);
@@ -527,4 +555,53 @@ a.effect-shine:hover {
     mask-size: 200%;
     
     animation: shine 2s infinite;
+  }
+
+
+
+  // ------foot-------//
+
+
+.footer-main {
+    position: relative;
+    background-size: cover;
+    padding: 50px;
+    z-index: 1;
+    background:  #fff;
+  }
+  
+  .footer-list{
+    padding: 10px;
+    padding-inline-start: 10px;
+    font-size: 25px
+}
+
+.fa-facebook-f:hover{
+    color: #2e60e7;
+}
+.fa-twitter:hover{
+    color: #28beec;
+}
+.fa-instagram:hover{
+    color: #de75f3;
+}
+.fa-weixin:hover{
+    color: #19c936;
+}
+.fa-goodreads-g:hover{
+    color: #eecb31;
+}
+.fa-github:hover{
+    color: #727271;
+}
+
+.footer-text {
+    position: relative;
+    font-size: 15px;
+    font-weight: 200;
+    padding-bottom: 5px;
+    line-height: 0.75;
+    font-family: Muli, sans-serif;
+    letter-spacing: 0em;
+    color: #595959;
   }
