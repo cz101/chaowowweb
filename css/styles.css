@@ -50,9 +50,6 @@
   text-align: left; }
 
 /*Intro section*/
-.intro {
-  padding: 200px 50px 100px; }
-
 .s1-context {
   z-index: 2;
   position: relative;
@@ -213,6 +210,9 @@
   padding: 100px 50px;
   background: transparent; }
 
+.intro {
+  padding: 200px 50px 100px; }
+
 .homeparallax {
   padding: 100px 50px;
   background: transparent; }
@@ -318,35 +318,41 @@
   padding-bottom: 40px;
   padding-left: 20px; }
 
-.s5-title {
+/*
+* page / sports 
+*/
+.sports-title {
   font-style: normal;
   font-weight: 300;
   font-size: 21px;
   line-height: 1.5;
   font-family: Hind, sans-serif;
-  letter-spacing: 0.38em;
+  letter-spacing: 0.2em;
   text-align: inherit;
   color: #303030;
   padding-top: 45px; }
 
-.s5-sub {
+.sports-sub {
   font-family: "Lato", Sans-serif;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: 0.4px;
   color: #333333;
   line-height: 1.857;
   padding-top: 20px;
   padding-bottom: 40px; }
 
-.effect-shine {
-  text-decoration: none;
-  color: #333333; }
-
-.s5-img {
+.sports-img {
   width: 100%;
   height: 310px;
   object-fit: cover; }
+
+.sportsicon:hover {
+  color: #2e60e7; }
+
+.effect-shine {
+  text-decoration: none;
+  color: #333333; }
 
 .hovereffect2 {
   width: 100%;
@@ -364,10 +370,10 @@
   top: 0;
   right: 0;
   bottom: auto;
-  padding: 10em;
+  padding: 1em;
   height: 20.75em;
   background-color: #fff;
-  background-image: url("../img/project-8.jpg");
+  /* background-image: url("../img/project-8.jpg");*/
   color: #3c4a50;
   -webkit-transition: -webkit-transform 0.35s;
   transition: transform 0.35s;
@@ -390,10 +396,10 @@
   text-align: center;
   position: relative;
   font-size: 17px;
-  padding: 10px;
+  padding: 20px;
   background: rgba(0, 0, 0, 0.6);
   float: left;
-  margin: 0px;
+  margin: 10PX;
   display: inline-block; }
 
 .hovereffect2 a.info {
@@ -403,7 +409,7 @@
   text-transform: uppercase;
   color: #fff;
   border: 1px solid #fff;
-  margin: 50px 0 0 0;
+  margin: 0 0 0 5px;
   background-color: transparent; }
 
 .hovereffect2 a.info:hover {
@@ -412,7 +418,7 @@
 .hovereffect2 p.icon-links a {
   float: right;
   color: #afaeae;
-  font-size: 1.4em; }
+  font-size: 2.0em; }
 
 .hovereffect2:hover p.icon-links a:hover,
 .hovereffect2:hover p.icon-links a:focus {
@@ -433,7 +439,6 @@
   -moz-osx-font-smoothing: grayscale; }
 
 .hovereffect2:hover .overlay2,
-.hovereffect2:hover h2,
 .hovereffect2:hover p.icon-links a {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0); }
@@ -460,6 +465,23 @@ a.effect-shine:hover {
   mask-image: linear-gradient(-75deg, rgba(0, 0, 0, 0.6) 30%, #000 50%, rgba(0, 0, 0, 0.6) 70%);
   mask-size: 200%;
   animation: shine 2s infinite; }
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; }
+
+.tooltip .tooltiptext {
+  width: 120px;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1; }
+
+.tooltip:hover .tooltiptext {
+  visibility: visible; }
 
 .footer-main {
   position: relative;
@@ -491,6 +513,15 @@ a.effect-shine:hover {
 
 .fa-github:hover {
   color: #727271; }
+
+.fa-baseball-ball:hover {
+  color: #19c936; }
+
+.fa-volleyball-ball:hover {
+  color: #19c936; }
+
+.fa-basketball-ball:hover {
+  color: #19c936; }
 
 .footer-text {
   position: relative;
