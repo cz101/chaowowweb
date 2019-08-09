@@ -19,7 +19,11 @@
     <script src="../js/popper.min.js" ></script>
     <script src="../js/bootstrap.min.js"></script>
     <script src="../js/jquery.min.js"></script>
-   
+    <script type="text/javascript">
+      $(document).ready(function() {
+       $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+        });
+  </script>
      <!--  
        <script src="js/parallax.min.js"></script>  
       -->
@@ -87,8 +91,8 @@
                 <div class="overlay2">
                     <h2>Team Sports</h2>
                     <p class="icon-links">                     
-                          <a href="#" data-toggle="tooltip" title="Tooltip on top">
-                              <i class="fas fa-futbol"  data-toggle="tooltip" title="Tooltip on top" ></i>
+                          <a href="#" data-toggle="tooltip" title="Football">
+                              <i class="fas fa-futbol"></i>
                           </a>
                           <a href="#">
                               <i class="fas fa-baseball-ball"></i>
@@ -148,10 +152,6 @@
                             <i class="fas fa-running"></i>
                         </a>
                       </p>
-                      <div data-tooltip="This is my tooltip">
-                          <label>Name</label>
-                          <input type="text" />
-                      </div>
                   </div>
                 </div></div>
           </div>

@@ -421,9 +421,6 @@
     object-fit: cover;
 }
 
-.sportsicon:hover{
-    color: #2e60e7;
-}
 
 .effect-shine {
     text-decoration: none;
@@ -564,27 +561,8 @@ a.effect-shine:hover {
     animation: shine 2s infinite;
   }
 
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-}
 
-.tooltip .tooltiptext {
 
-  width: 120px;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-
-  /* Position the tooltip */
-  position: absolute;
-  z-index: 1;
-}
-
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-  }
   // ------foot-------//
 
 
@@ -622,11 +600,16 @@ a.effect-shine:hover {
     color: #727271;
 }
 .fa-baseball-ball:hover {
-    color: #19c936;
+    color: #0f0f0f;
 }
 
-.fa-volleyball-ball:hover { color: #19c936;}
-.fa-basketball-ball:hover { color: #19c936;}
+.fa-volleyball-ball:hover { color: #121312;}
+.fa-basketball-ball:hover { color: #4e230a;}
+.fa-football-ball:hover { color: #4e230a;}
+.fa-futbol:hover { color: #050505;}
+
+
+
 .footer-text {
     position: relative;
     font-size: 15px;
@@ -637,3 +620,6 @@ a.effect-shine:hover {
     letter-spacing: 0em;
     color: #595959;
   }
+
+
+
