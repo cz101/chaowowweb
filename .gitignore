@@ -1,0 +1,5 @@
+gulpfile.js
+package.json
+package-lock.json
+parallax.min.js
+node_modules\*.*
