@@ -1,5 +1,5 @@
+#file no need to push to the repo
 gulpfile.js
 package.json
 package-lock.json
-parallax.min.js
-node_modules\*.*
+node_module/
