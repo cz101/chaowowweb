@@ -1,0 +1,21 @@
+{
+  "name": "web2",
+  "version": "1.0.0",
+  "description": "This template is designed and developed using Bootstrap 4 with HTML and CSS.   It supports responsive layout which makes the template render well on various devices.   Parallax and animation effects are involved in the template.",
+  "main": "parallax.min.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "popper.js": "^1.14.7"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

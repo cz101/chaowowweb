@@ -1,6 +1,0 @@
-#file no need to push to the repo
-
-gulpfile.js
-package.json
-package-lock.json
-node_module/*
