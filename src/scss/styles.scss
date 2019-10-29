@@ -117,7 +117,7 @@
 //section 2
 
 .parallax2 {
-    min-height: 330px;
+    min-height: 530px;
     padding: 130px 40px;
     background: transparent;
     background-size: cover;
@@ -174,6 +174,10 @@
 
 .hovereffect h2 {
     opacity: 0;
+}
+
+.hovereffect img {
+    pointer-events: none;
 }
 
 .hovereffect:hover h2 {
