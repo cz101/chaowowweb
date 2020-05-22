@@ -50,6 +50,9 @@
   text-align: left; }
 
 /*Intro section*/
+.audio {
+  pointer-events: none; }
+
 .s1-context {
   z-index: 2;
   position: relative;
@@ -348,16 +351,45 @@
 
 .sports-img {
   width: 100%;
-  height: 310px;
+  height: 280px;
   object-fit: cover; }
 
 .teamsport {
   padding-top: 20px;
-  padding-bottom: 40px; }
+  padding-bottom: 40px;
+  margin-left: 100px;
+  margin-right: 100px; }
+
+.middlesportcol {
+  background-color: #c3d1db;
+  width: 100%;
+  height: 280px;
+  object-fit: cover; }
+
+.sportteambg {
+  /* The image used */
+  background-image: url("../img/ACMilan1.jpg");
+  /* Half height */
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
 
 .effect-shine {
   text-decoration: none;
   color: #333333; }
+
+.nohovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default; }
 
 .hovereffect2 {
   width: 100%;
