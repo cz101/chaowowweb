@@ -4,11 +4,14 @@
   "description": "This template is designed and developed using Bootstrap 4 with HTML and CSS.   It supports responsive layout which makes the template render well on various devices.   Parallax and animation effects are involved in the template.",
   "main": "parallax.min.js",
   "dependencies": {
-    "bootstrap": "^4.3.1",
-    "popper.js": "^1.14.7"
+    "bootstrap": "^4.4.1",
+    "cors": "^2.8.5",
+    "dom-parser": "^0.1.6",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.26.13",
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2"
   },

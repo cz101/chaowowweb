@@ -1,0 +1,344 @@
+<html>
+
+<script>
+
+
+function createNode(element) {
+      
+      return document.createElement(element);
+  }
+
+function append(parent, el) {
+    return parent.appendChild(el);
+  }
+
+
+
+function readxml() {
+
+    var key = "qG4h3DZZk8h8kOq8GmtJQ"; // api key from good read
+		var secret = "rKQ5xgr45GbQY0mHJkbMXlpxgCOqRMQLBxQOs7EX0w";  // secrete key from goodread
+		var  useraccount = "chaowow";
+		var url = "https://www.goodreads.com/book/author/show/18541?format=xml&key=" + key;
+
+
+      fetch("../goodreads.xml")
+            .then(res => res.text())
+            .then(function(data) {
+                   var data = JSON.parse(body);
+                      data.forEach((book) => {
+                          const books = document.createElement('div');
+                          const h1 = document.createElement('h1');
+                          h1.textContent = books.title;
+                          container.appendChild(books);
+                          card.appendChild(h1);
+                          })
+          
+              })
+            .then(console.log)
+            .catch(console.error);
+}  
+
+function display(xml) {
+   var x, i, xmlDoc, table , myNodes, childNodes;
+   //xmlDoc = xml.responseXML;
+  // console.log("the file im loading is : " + xml);
+  
+  // table = "<tr><th>title</th><th>isbn</th><th>publisher</th><th>format</th><tr>";
+   x = xml.getElementsByTagName("GoodreadsResponse");
+
+
+    //const elems = xml.getElementsByTagName('author');
+
+    // const rootnode = xml.getElementsByTagName('series_works');
+
+    for (i = 0; i < x.length; i++) {
+         console.log("the checking  times :"  + x.length);
+      // console.log("the checking point :" + rootnode.item(i).getElementsByTagName("work"));
+       console.log("the checking point :" + x[i]);
+      
+      //  var node = rootnode.item(i).getElementsByTagName("work");
+        //childNodes = parent.childNodes;
+   // for (j= 0 ; j<nodes.length ; j++) {
+
+    //   console.log("print the title  point :" + node[j].textContent) ;
+      //  console.log("the checking point :" + x.item(i).childNodes[j]);
+      /*
+      table += "<tr><td>" + x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue + "</td><td>" 
+                        + x[j].getElementsByTagName("isbn")[0].childNodes[0].nodeValue + "</td><td>"
+                        + x[j].getElementsByTagName("publisher")[0].childNodes[0].nodeValue + "</td><td>"
+                        + x[j].getElementsByTagName("format")[0].childNodes[0].nodeValue + "</td><td>" ;
+      */
+                     //   }
+  }
+ 
+
+        for (const author of elems) {
+            console.log(author.innerText);
+            const parent = xml.getElementsByTagName('author');
+             childNodes = parent.childNodes;
+            console.log(childNodes.length); 
+        }
+
+
+
+
+
+   //const nodelist = xml.querySelectorAll("author");
+   //const divyArray = Array.from(nodelist);
+
+/*
+     var  children;
+   var bnames =  [];
+
+      for ( i = 0; i < x.length; i++) {
+        if (x.item(i).getElementsByTagName("author") ) {
+            children = x.item(i).getChildNodes;
+             console.log(children);
+          for ( j = 0; j < x.item(i).length; j++) {
+            if (children.item(j).getElementsByTagName("name")) {
+              bnames.push( children.item(j));
+              
+                }
+              }
+            }
+    }
+
+    console.log(bnames);
+*/
+
+ }
+
+
+function fetchxml(){
+
+
+   fetch("../recentreviews.xml")
+  // fetch("../gauthors.xml")
+    .then(res => res.text())
+    .then(res => (new window.DOMParser()).parseFromString(res, "text/xml")
+                  
+    )
+    .then(data => {  console.log(data);
+                      displayreviews(data);
+                     // display(data);
+                     // console.log("the elm data is " + data.getElementsByTagName("original_title")[0].childNodes[0].nodeValue);
+                     //  myFunction(data);   
+                      //document.getElementById("demo").innerHTML =  data.getElementsByTagName("GoodreadsResponse")[0].childNodes[0].nodeValue;
+
+                    });
+
+}
+
+
+function displayreviews(xml) {
+
+ var  sourcedoc, user = "",  bookreviewtable = " " ;
+ var  bookname = " " , bookauth = " " , imgurl = "  ", userreview = " ", rating  = " ";
+
+
+ txt =  "test data : " + " | " + " " + "<br>";
+
+ x = xml.getElementsByTagName("review");
+ //console.log( x);
+
+ bookreviewtable +=  "</td><td>"+ "Bookname" + "</td><td> " +  " " +  "</td><td> "+ "AVG rating" +  "</td><td>"+ "Author" +"</td><td>"+ "Reader" ; 
+
+ for (i = 0; i< x.length; i++) {
+  
+      if ( (x[i].children[1].children[2].childNodes[0].nodeValue) !==null) { user = x[i].children[1].children[2].childNodes[0].nodeValue;}
+      if ( (x[i].children[2].children[5].childNodes[0].nodeValue) !==null) { bookname = x[i].children[2].children[5].childNodes[0].nodeValue;}
+      if ( (x[i].children[2].children[8].childNodes[0].nodeValue) !==null) { imgurl = x[i].children[2].children[8].childNodes[0].nodeValue;}
+      if ( (x[i].children[2].children[18].childNodes[0].nodeValue) !==null) { rating = x[i].children[2].children[18].childNodes[0].nodeValue;}
+      if ( (x[i].children[2].children[20].children[0].children[1].childNodes[0].nodeValue) !==null) { bookauth = x[i].children[2].children[20].children[0].children[1].childNodes[0].nodeValue;}
+
+      bookreviewtable += "<tr><td>" + bookname + "</td><td>" + "<img src="+imgurl+">" +"</td><td>" +  rating + "</td><td>" + bookauth + "</td><td>" + user ;
+   }
+   document.getElementById("review").innerHTML = bookreviewtable;
+}
+
+
+function myFunction(xml) {
+  var x, i, xmlDoc, txt,table ="" , booktable = "";
+  var authorinfo ="" ; 
+  var  gauthor = " " , ggender =" ", gworkcount=" ", ghometown=' ',gbooks , gpubyears ="Unknown", gimage =" ", gdesc ="None "; 
+
+
+
+  txt = "";
+  // console.log( xml);
+ 
+
+  authorinfo   = xml.getElementsByTagName ("about")[0].innerHTML;
+  authorinfo = authorinfo.trim().replace(/^(\/\/\s*)?<!\[CDATA\[|(\/\/\s*)?\]\]>$/g, '')
+  // console.log ("the about value is " + authorinfo);
+  document.getElementById("authorinfo").innerHTML = authorinfo;
+
+  
+
+  if (xml.getElementsByTagName("gender")[0].innerHTML !==null){ ggender = xml.getElementsByTagName("gender")[0].innerHTML;}
+  if (xml.getElementsByTagName("works_count")[0].innerHTML !== null){ gworkcount = xml.getElementsByTagName("works_count")[0].innerHTML; }
+  if (xml.getElementsByTagName("hometown")[0].innerHTML !==null) { ghometown = xml.getElementsByTagName("hometown")[0].innerHTML; }
+
+
+  table +=  "</td><td> "+ "Gender" + "</td><td> " + "Totoal works" + "</td><td>"+ "Hometown"; 
+  table += "<tr><td>" + ggender + "</td><td>" + gworkcount + "</td><td>" + ghometown;
+
+
+  document.getElementById("first").innerHTML = table;
+
+  booktable  += "</td><td> "+ "Book Titles" + "</td><td>" + "Published Year" +  "</td><td>" + " Img" +  "</td><td>" + " Description ";
+
+  x = xml.getElementsByTagName("book");
+  console.log( x);
+
+
+  for (i = 0; i< x.length; i++) {
+    
+     txt += x[i].childNodes[11].childNodes[0].nodeValue + " <br>";
+
+     if ( x[i].childNodes[33].childNodes.length !== 0)
+     {gpubyears = x[i].childNodes[33].childNodes[0].nodeValue; }
+     if ( x[i].childNodes[15].childNodes.length !== 0)
+     {gimage = x[i].childNodes[15].childNodes[0].nodeValue; }
+     
+     if ( x[i].children[20].innerHTML !== 0)
+     { gdesc = x[i].children[20].innerHTML; }
+     
+     gbooks =   x[i].childNodes[11].childNodes[0].nodeValue + " <br>";
+   
+     booktable += "<tr><td>" + gbooks + "</td><td>" + gpubyears + "</td><td>" + gimage +  "</td><td>" + gdesc;
+     gpubyears = "unknown";
+     gimage =" ";
+     gdesc ="None"
+  }
+   //document.getElementById("demo").innerHTML = txt;
+   document.getElementById("demo").innerHTML = booktable;
+
+}
+
+function checknyt () {
+
+
+ var  bookstringfic    =  "../nytbestfic.json" ; 
+ var  bookstringnofic  =  "../nytbestnofic.json" ; 
+
+ /* parsing the file */
+    fetch(bookstringfic)
+          .then(response => { return response.json(); })
+          .then(data => {   //console.log(data);
+                           processfile( data);
+    })
+          //.catch(err => { console.log ("There is error to prorcess the file");});
+     
+
+    fetch(bookstringnofic)
+          .then(response => { return response.json(); })
+          .then(data => {   //console.log(data);
+                           processfile(data);
+    })
+          //.catch(err => { console.log ("There is error to prorcess the file");});
+
+}
+
+
+function processfile(info) {
+
+  var bookauthor  = "nobody" , bookrank = " ",bookweeks= "", bookimg = "" ; 
+  var mybooks = [] , nyttable = " ";
+
+
+  nyttable +=  "</td><td>"+ "Books"  +  "</td><td> "+ "Author" +  "</td><td>"+ "Current ranking" +"</td><td>"+ " Time on the Board" ; 
+
+  console.log(info);
+  
+   for (var key in info )
+    {
+       console.log ("key is :" + key + "  = " + info[key]);
+        if (key === "results")
+         {
+               mybooks = info[key].books ;
+              for (i = 0 ; i < mybooks.length ; i++)
+                {  
+
+                  if(mybooks[i].author !==null){ bookauthor  = mybooks[i].author; }
+                  if(mybooks[i].rank !==null){ bookrank  = mybooks[i].rank; }
+                  if(mybooks[i].book_image!==null){ bookimg  = mybooks[i].book_image; }
+                  if(mybooks[i].weeks_on_list !==null){ bookweeks  = mybooks[i].weeks_on_list; }
+                   console.log ("the book is  " +    bookimg + "  by "      +  bookauthor + " it is ranking at  " + bookrank + "  and it has been  " + bookweeks + " weeks  on the board ");
+                //  nyttable  +=  "<tr><td>" + "<img src="+bookimg+">" +"</td><td>" +  bookauthor + "</td><td>" + bookrank + "</td><td>" + bookweeks  ;
+                  nyttable  +=  "<tr><td>" + bookimg + "</td><td>" +  bookauthor + "</td><td>" + bookrank + "</td><td>" + bookweeks  ;
+
+                }
+
+          
+
+           }
+    }
+    
+ /*display the table */
+       document.getElementById("nytnonfic").innerHTML = nyttable;
+
+  }
+
+
+</script>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Good Reads</title>
+</head>
+<body>
+  <h1>DATA as below </h1>
+  
+ <div>
+
+    <input type="button" value="fetch" id="getButton" onclick= checknyt() />
+
+</div>
+
+
+<div>
+
+
+<h3>Here is the  NYT FIC </h3>
+
+<div>
+
+<table border = "1", id="nytfic" > </table>
+
+</div>
+
+
+<h3>Here is the  NYT NOFIC </h3>
+
+<div>
+
+<table border = "1", id="nytnonfic" > </table>
+
+</div>
+
+
+<h3>Here is the info about review </h3>
+ 
+
+   <table border = "1", id="review" > </table>
+
+
+
+
+
+  <h3>Here is the info about author</h3>
+  <p id="author">  </p>
+  <table border = "1", id="first" > </table>
+  <p id = "authorinfo"></p>
+
+  <h3>Here is the info aboout the works</h3>
+  <!--<p id="demo"></p> -->
+  <table border = "1", id="demo" > </table>
+
+</div>
+
+</body>
+</html>

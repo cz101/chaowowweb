@@ -1,0 +1,511 @@
+<GoodreadsResponse>
+<Request>
+<authentication>true</authentication>
+<key>
+<![CDATA[ qG4h3DZZk8h8kOq8GmtJQ ]]>
+</key>
+<method>
+<![CDATA[ author_show ]]>
+</method>
+</Request>
+<author>
+<id>2996</id>
+<name>Michael Herr</name>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/2996.Michael_Herr ]]>
+</link>
+<fans_count type="integer">104</fans_count>
+<author_followers_count type="integer">104</author_followers_count>
+<large_image_url>
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p7/2996.jpg ]]>
+</large_image_url>
+<image_url>
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p5/2996.jpg ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p2/2996.jpg ]]>
+</small_image_url>
+<about>
+<![CDATA[ Michael Herr was a novelist and war correspondent. Born in Lexington, Kentucky in 1940, he began reporting from Vietnam for <i>Esquire</i> in the 1960s, during the height of the war. He later chronicled those experiences in his memoir, <i>Dispatches</i>. He is the author of three other books, <i>The Big Room</i>, <i>Walter Winchell</i>, and <i>Kubrick</i>, and coauthor of the screenplays for <i>Apocalypse Now</i> and <i>Full Metal Jacket</i>. Herr later contributed to the narration sections of Best Picture Oscar nominee <i>Apocalypse Now</i> (1979) and co-wrote the screenplay for <i>Full Metal Jacket</i> (1987), for which Herr shared an adapted screenplay Oscar nomination with Stanley Kubrick and Gustav Hasford.He died in 2016 at the age of 76.<br /> ]]>
+</about>
+<influences/>
+<works_count>10</works_count>
+<gender/>
+<hometown>Lexington, Kentucky</hometown>
+<born_at>1940/04/13</born_at>
+<died_at>2016/06/23</died_at>
+<goodreads_author/>
+<books>
+<book>
+<id type="integer">4339</id>
+<isbn>0679735259</isbn>
+<isbn13>9780679735250</isbn13>
+<text_reviews_count type="integer">824</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.euP2j1JymfzEO2GuI_7BMg</uri>
+<title>Dispatches</title>
+<title_without_series>Dispatches</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343099128l/4339._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343099128l/4339._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/4339.Dispatches</link>
+<num_pages>260</num_pages>
+<format>Paperback</format>
+<edition_information/>
+<publisher>Vintage</publisher>
+<publication_day>6</publication_day>
+<publication_year>1991</publication_year>
+<publication_month>8</publication_month>
+<average_rating>4.24</average_rating>
+<ratings_count>15774</ratings_count>
+<description>Written on the front lines in Vietnam, <i>Dispatches</i> became an immediate classic of war reportage when it was published in 1977.<br /><br />From its terrifying opening pages to its final eloquent words, <i>Dispatches</i> makes us see, in unforgettable and unflinching detail, the chaos and fervor of the war and the surreal insanity of life in that singular combat zone. Michael Herr’s unsparing, unorthodox retellings of the day-to-day events in Vietnam take on the force of poetry, rendering clarity from one of the most incomprehensible and nightmarish events of our time.<br /><br /><i>Dispatches</i> is among the most blistering and compassionate accounts of war in our literature.</description>
+<authors>
+<author>
+<id>2996</id>
+<name>Michael Herr</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p5/2996.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p2/2996.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/2996.Michael_Herr ]]>
+</link>
+<average_rating>4.21</average_rating>
+<ratings_count>16817</ratings_count>
+<text_reviews_count>1117</text_reviews_count>
+</author>
+</authors>
+<published>1991</published>
+<work>
+<id>8018</id>
+<uri>kca://work/amzn1.gr.work.v1.Qhsn1Fmi4OZZQ1SID5-YLA</uri>
+</work>
+</book>
+<book>
+<id type="integer">536360</id>
+<isbn>0802116701</isbn>
+<isbn13>9780802116703</isbn13>
+<text_reviews_count type="integer">31</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.d747HN0hFYdkSIHe8GDa5w</uri>
+<title>Kubrick</title>
+<title_without_series>Kubrick</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/536360.Kubrick</link>
+<num_pages>96</num_pages>
+<format>Hardcover</format>
+<edition_information/>
+<publisher>Grove/Atlantic</publisher>
+<publication_day>1</publication_day>
+<publication_year>2000</publication_year>
+<publication_month>6</publication_month>
+<average_rating>3.84</average_rating>
+<ratings_count>429</ratings_count>
+<description>Kubrick is Michael Herr's memoir of his nearly twenty-year friendship and collaboration with Stanley Kubrick, one of the greatest filmmakers of all time and the creator of such classics as Dr. Strangelove, 2001: A Space Odyssey, and A Clockwork Orange. From their first meeting at an advance screening of The Shining in 1980, Kubrick and Herr began an intense intellectual exchange that grew into the artistic collaboration that ultimately produced the groundbreaking Vietnam film Full Metal Jacket.Filled with personal insights and previously untold anecdotes, Kubrick is a probing view into the inner life of a man whose creative passion and powerful intellect changed the art of filmmaking forever -- and of the complicated, often misunderstood man behind the art.</description>
+<authors>
+<author>
+<id>2996</id>
+<name>Michael Herr</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p5/2996.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p2/2996.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/2996.Michael_Herr ]]>
+</link>
+<average_rating>4.21</average_rating>
+<ratings_count>16817</ratings_count>
+<text_reviews_count>1117</text_reviews_count>
+</author>
+</authors>
+<published>2000</published>
+<work>
+<id>1012170</id>
+<uri>kca://work/amzn1.gr.work.v1.bevKlwaDQwGSYet_HQ5vzA</uri>
+</work>
+</book>
+<book>
+<id type="integer">566179</id>
+<isbn>0679733930</isbn>
+<isbn13>9780679733935</isbn13>
+<text_reviews_count type="integer">4</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.sGot30Wr1SxidXUwfv8vkg</uri>
+<title>Walter Winchell: A Novel</title>
+<title_without_series>Walter Winchell: A Novel</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420940721l/566179._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420940721l/566179._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/566179.Walter_Winchell</link>
+<num_pages>157</num_pages>
+<format>Paperback</format>
+<edition_information/>
+<publisher>Vintage</publisher>
+<publication_day>6</publication_day>
+<publication_year>1991</publication_year>
+<publication_month>8</publication_month>
+<average_rating>3.13</average_rating>
+<ratings_count>53</ratings_count>
+<description>A streamlined hybrid of novel and screenplay, Walter Winchell tells the story of the failed vaudevillian who became this country's most influential gossip columnist and wizard of the vicarious. Brilliant . . . full of punchy dialogue, colorful people and places and period movie devices . . . Herr's hybrid is perfect.--Chicago Tribune.</description>
+<authors>
+<author>
+<id>2996</id>
+<name>Michael Herr</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p5/2996.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p2/2996.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/2996.Michael_Herr ]]>
+</link>
+<average_rating>4.21</average_rating>
+<ratings_count>16817</ratings_count>
+<text_reviews_count>1117</text_reviews_count>
+</author>
+</authors>
+<published>1991</published>
+<work>
+<id>553285</id>
+<uri>kca://work/amzn1.gr.work.v1.58qe7F8X5GhBknX2oV5C2w</uri>
+</work>
+</book>
+<book>
+<id type="integer">35960490</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">2</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.R-L4VLOSt4QdxJ1vtjNq5g</uri>
+<title>Illumination Rounds: from Dispatches</title>
+<title_without_series>Illumination Rounds: from Dispatches</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/35960490-illumination-rounds</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>3.67</average_rating>
+<ratings_count>3</ratings_count>
+<description/>
+<authors>
+<author>
+<id>2996</id>
+<name>Michael Herr</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p5/2996.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p2/2996.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/2996.Michael_Herr ]]>
+</link>
+<average_rating>4.21</average_rating>
+<ratings_count>16817</ratings_count>
+<text_reviews_count>1117</text_reviews_count>
+</author>
+</authors>
+<published/>
+<work>
+<id>57518759</id>
+<uri>kca://work/amzn1.gr.work.v1.yoKGPdYyk4aJ8UW9fm8NfQ</uri>
+</work>
+</book>
+<book>
+<id type="integer">1386767</id>
+<isbn>0671630288</isbn>
+<isbn13>9780671630287</isbn13>
+<text_reviews_count type="integer">1</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.KrVNJEjQT459xWlUIggQ3A</uri>
+<title>The Big Room</title>
+<title_without_series>The Big Room</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420940791l/1386767._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420940791l/1386767._SX50_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/1386767.The_Big_Room</link>
+<num_pages>143</num_pages>
+<format>Unknown Binding</format>
+<edition_information/>
+<publisher>Summit Books</publisher>
+<publication_day>1</publication_day>
+<publication_year>1986</publication_year>
+<publication_month>1</publication_month>
+<average_rating>3.50</average_rating>
+<ratings_count>4</ratings_count>
+<description/>
+<authors>
+<author>
+<id>219810</id>
+<name>Guy Peellaert</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1361382911p5/219810.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1361382911p2/219810.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/219810.Guy_Peellaert ]]>
+</link>
+<average_rating>4.09</average_rating>
+<ratings_count>188</ratings_count>
+<text_reviews_count>21</text_reviews_count>
+</author>
+</authors>
+<published>1986</published>
+<work>
+<id>9908284</id>
+<uri>kca://work/amzn1.gr.work.v1.I8AkH2ajN_C1B0ZDFSbBqA</uri>
+</work>
+</book>
+<book>
+<id type="integer">48721663</id>
+<isbn>881708946X</isbn>
+<isbn13>9788817089463</isbn13>
+<text_reviews_count type="integer">0</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v3.9KseHo1IaBsfzBHZ</uri>
+<title>Dispacci. L'orrore del Vietnam. Negli occhi dei soldati americani</title>
+<title_without_series>Dispacci. L'orrore del Vietnam. Negli occhi dei soldati americani</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/48721663-dispacci-l-orrore-del-vietnam-negli-occhi-dei-soldati-americani</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>0.0</average_rating>
+<ratings_count>0</ratings_count>
+<description/>
+<authors>
+<author>
+<id>2996</id>
+<name>Michael Herr</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p5/2996.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1559429841p2/2996.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/2996.Michael_Herr ]]>
+</link>
+<average_rating>4.21</average_rating>
+<ratings_count>16817</ratings_count>
+<text_reviews_count>1117</text_reviews_count>
+</author>
+</authors>
+<published/>
+<work>
+<id>74079002</id>
+<uri>kca://work/amzn1.gr.work.v2.4ea1f8e9-a028-4bd6-904d-234effdfc18c</uri>
+</work>
+</book>
+<book>
+<id type="integer">36059626</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">0</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.oBHM7eIFV3gGZ6Bz-Ndh8w</uri>
+<title>The Old Queen's Deadly Cruise: A Kohala Coast Mystery/Thriller</title>
+<title_without_series>The Old Queen's Deadly Cruise: A Kohala Coast Mystery/Thriller</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/36059626-the-old-queen-s-deadly-cruise</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>5.00</average_rating>
+<ratings_count>2</ratings_count>
+<description/>
+<authors>
+<author>
+<id>421773</id>
+<name>Michael A. Herr</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1263456260p5/421773.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1263456260p2/421773.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/421773.Michael_A_Herr ]]>
+</link>
+<average_rating>3.79</average_rating>
+<ratings_count>178</ratings_count>
+<text_reviews_count>20</text_reviews_count>
+</author>
+</authors>
+<published/>
+<work>
+<id>57638630</id>
+<uri>kca://work/amzn1.gr.work.v1.PYcyOpXAmWb5z9khTCwFoA</uri>
+</work>
+</book>
+<book>
+<id type="integer">341283</id>
+<isbn>0142001945</isbn>
+<isbn13>9780142001943</isbn13>
+<text_reviews_count type="integer">26</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.0Bs6cmm5SmLWVmohA4yptg</uri>
+<title>The Portable Sixties Reader</title>
+<title_without_series>The Portable Sixties Reader</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/341283.The_Portable_Sixties_Reader</link>
+<num_pages>628</num_pages>
+<format>Paperback</format>
+<edition_information>The Viking Portable Library</edition_information>
+<publisher>Penguin Classics</publisher>
+<publication_day/>
+<publication_year>2003</publication_year>
+<publication_month/>
+<average_rating>3.92</average_rating>
+<ratings_count>297</ratings_count>
+<description><b> <i>A literary time capsule from the decade that changed the world</i> </b><br /><br />From civil rights to free love, JFK to LSD, Woodstock to the Moonwalk, the Sixties was a time of change, political unrest, and radical experiments in the arts, sexuality, and personal identity. In this anthology of essays, poetry, and fiction by some of America's most gifted writers, renowned sixties authority Ann Charters sketches the unfolding of this most turbulent decade. Organized by thematically linked chapters chronicling important social, political, and cultural movements, <i>The Portable Sixties Reader</i> features such luminaries as Martin Luther King, Jr., James Baldwin, Alice Walker, Robert Lowell, Eudora Welty, Bob Dylan, Malcolm X, Susan Sontag, Denise Levertov, Norman Mailer, Allen Ginsberg, Hunter Thompson, William S. Burroughs, Timothy Leary, Ken Kesey, Lenny Bruce, Ishmael Reed, Sylvia Plath, Anne Sexton, Rachel Carson, and Gary Snyder. The concluding chapter, "Elegies for the Sixties," offers tributes to ten figures whose lives--and deaths--captured the spirit of the decade.<br /><br />Cover photograph by Herbert Orth/TimePix.<br /><br /><u>Contributors that wouldn't fit in the author field</u>:<br /><i>Norman Mailer, Dave Mandel, Peter Matthiessen, Michael McClure, Country Joe McDonald, Thomas Merton, Kate Millett, Janice Mirikitani, N. Scott Momaday, Anne Moody, Larry Neal, Tim O'Brien, Charles Olson, Dan Paik, Rosa Parks, Sylvia Plath, Allen Polite, Dudley Randall, Ishmael Reed, Carolyn M. Rodgers, Muriel Rukeyser, Edward Sanders, Richard Schmorleitz, Anne Sexton, Gary Snyder, Valerie Solanas, Susan Sontag, Gloria Steinem, Hunter S. Thompson, Sally Tomlinson, Calvin Trillin, Eric Von Schmidt, Diane Wakoski, Alice Walker, Lew Welch, Eudora Welty, Malcolm X, &amp; Al Young</i></description>
+<authors>
+<author>
+<id>13460</id>
+<name>Ann Charters</name>
+<role>Editor</role>
+<image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png ]]>
+</image_url>
+<small_image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/13460.Ann_Charters ]]>
+</link>
+<average_rating>3.81</average_rating>
+<ratings_count>27708</ratings_count>
+<text_reviews_count>1722</text_reviews_count>
+</author>
+</authors>
+<published>2003</published>
+<work>
+<id>331654</id>
+<uri>kca://work/amzn1.gr.work.v1.uSeFMHM5MbQJcOfuJMGx9A</uri>
+</work>
+</book>
+<book>
+<id type="integer">97419</id>
+<isbn>0330243152</isbn>
+<isbn13>9780330243155</isbn13>
+<text_reviews_count type="integer">13</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.OLOTsGoxWCYSqE381lk-2Q</uri>
+<title>The New Journalism</title>
+<title_without_series>The New Journalism</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356442232l/97419._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356442232l/97419._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/97419.The_New_Journalism</link>
+<num_pages>430</num_pages>
+<format/>
+<edition_information/>
+<publisher>Picador</publisher>
+<publication_day>1</publication_day>
+<publication_year>1996</publication_year>
+<publication_month>2</publication_month>
+<average_rating>4.05</average_rating>
+<ratings_count>691</ratings_count>
+<description>Tom Wolfe introduces a wide range of journalistic reportage by writers including Truman Capote, Terry Southern, George Plimpton, Norman Mailer and Hunter S. Thompson.</description>
+<authors>
+<author>
+<id>3083854</id>
+<name>Tom Wolfe</name>
+<role>Editor</role>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1368273666p5/3083854.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1368273666p2/3083854.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/3083854.Tom_Wolfe ]]>
+</link>
+<average_rating>3.87</average_rating>
+<ratings_count>250291</ratings_count>
+<text_reviews_count>12127</text_reviews_count>
+</author>
+</authors>
+<published>1996</published>
+<work>
+<id>802076</id>
+<uri>kca://work/amzn1.gr.work.v1.262YEOqODl6kEJLLQVb7gg</uri>
+</work>
+</book>
+<book>
+<id type="integer">117760</id>
+<isbn>0140068694</isbn>
+<isbn13>9780140068696</isbn13>
+<text_reviews_count type="integer">1</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.sZFEJtJ_4OWNZrBlCWZH3w</uri>
+<title>Granta 8: Dirty Realism</title>
+<title_without_series>Granta 8: Dirty Realism</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/117760.Granta_8</link>
+<num_pages/>
+<format>Hardcover</format>
+<edition_information/>
+<publisher>Granta Books (Uk)</publisher>
+<publication_day>1</publication_day>
+<publication_year>1998</publication_year>
+<publication_month>11</publication_month>
+<average_rating>4.00</average_rating>
+<ratings_count>42</ratings_count>
+<description>The issue of Granta that defined a new school of American writers: Richard Ford, Jayne Anne Phillips, Raymond Carver, Elizabeth Tallent, Tobias Wolff, Bobbie Ann Mason, Frederic Barthelme, Carolyn Forché and others.</description>
+<authors>
+<author>
+<id>2606</id>
+<name>Bill Buford</name>
+<role>Editor</role>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1299067990p5/2606.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1299067990p2/2606.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/2606.Bill_Buford ]]>
+</link>
+<average_rating>3.95</average_rating>
+<ratings_count>36534</ratings_count>
+<text_reviews_count>3267</text_reviews_count>
+</author>
+</authors>
+<published>1998</published>
+<work>
+<id>113366</id>
+<uri>kca://work/amzn1.gr.work.v1.XXCyyzrANq43HtwDnoUPnQ</uri>
+</work>
+</book>
+</books>
+</author>
+</GoodreadsResponse>

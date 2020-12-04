@@ -221,7 +221,10 @@
 
 .homeparallax {
   padding: 100px 50px;
-  background: transparent; }
+  background: transparent;
+  background-size: cover;
+  /*cover the div*/
+  background-size: 100%,auto; }
 
 .parallax-window {
   min-height: 400px;
@@ -596,3 +599,91 @@ a.effect-shine:hover {
   font-family: Muli, sans-serif;
   letter-spacing: 0em;
   color: #595959; }
+
+.element {
+  /*  
+    height: 250px;
+    width: 250px;
+    margin: 0 auto;
+  //  background-color: rgb(9, 255, 0);
+    animation-name: stretch;
+    animation-duration: 10.5s; 
+    animation-timing-function: ease-out; 
+    animation-delay: 0;
+    //animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    */
+  height: 500px;
+  width: 500px;
+  animation-name: stretch;
+  animation-duration: 10.5s;
+  animation-timing-function: ease-out;
+  animation-delay: 0;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running; }
+
+@keyframes stretch {
+  0% {
+    transform: scale(0.5, 0.5);
+    background-image: url("../img/dvc.jpg");
+    border-radius: 50%; }
+  50% {
+    transform: scale(1, 1); }
+  100% {
+    transform: scale(2, 2); } }
+
+.future-img {
+  animation: rotation  10s;
+  animation-duration: 25s;
+  animation-iteration-count: 20;
+  animation-timing-function: linear; }
+
+@keyframes rotation {
+  from {
+    transform: rotate(359deg); }
+  to {
+    transform: rotate(0deg); } }
+
+.element:hover {
+  animation-play-state: paused; }
+
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 30px;
+  animation: slide 5s infinite; }
+
+#circle1 {
+  animation-timing-function: ease-in-out;
+  background-color: #E84855; }
+
+#circle2 {
+  background-color: #0099FF; }
+
+#circle3 {
+  background-color: #FFCC00; }
+
+#container {
+  width: 550px;
+  background-color: #FFF;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 0 auto; }
+
+@keyframes slide {
+  0% {
+    transform: translate3d(0, 0, 0); }
+  25% {
+    transform: translate3d(380px, 100px, 0); }
+  50% {
+    transform: translate3d(0, 200px, 0); }
+  100% {
+    transform: translate3d(0, 0, 300px); } }
+
+.circle:hover {
+  animation-play-state: paused; }

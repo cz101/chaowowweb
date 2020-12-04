@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title></title>
+  <script type="text/javascript">
+    function roll() {
+      var table = document.getElementById('myTable');
+      var result_style = document.getElementById('tryrow').style;
+     result_style.display = 'table-row';
+
+      var rows = table.rows;
+      var firstRow = rows[0];
+   /*   if (firstRow !== null)
+       {
+           document.getElementById('sports').innerHTML = "<h1>"+  "test" +"</h1>"+"<br>" ;
+           result_style.display = 'table-row';}
+
+   */
+
+      var clone = firstRow.cloneNode(true);
+      table.tBodies[0].appendChild(clone);
+      table.tBodies[0].removeChild(firstRow);
+      
+    }
+  </script>
+</head>
+<body>
+  <table id="myTable" style="border: 1">
+    <tbody>
+      <tr id = "tryrow" style="display: none;"><td>First row</td></tr>
+      <tr id = "tryrow" style="display: none;" ><td>Second row</td></tr>
+      <tr id = "tryrow" style="display: none;" ><td>Third row</td></tr>
+    </tbody>
+  </table>
+  <input type="button" onclick="roll()" value="Click"/>
+
+  
+
+  <div class="element"></div>
+
+
+
+
+</body>
+</html>

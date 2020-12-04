@@ -1,0 +1,208 @@
+<html>
+
+<script>
+
+
+funtion readxml (){
+
+
+    var parser = new DOMParser();
+    var xmlsource = "<text_reviews_count type=/"integer/">0</text_reviews_count>"
+
+    xmlDoc = parser.parseFromString(xml.responseText,"text/xml");
+
+    //var DOMParser = require('xmldom').DOMParser;
+    var xmlsource = "<text_reviews_count type=/"integer/">0</text_reviews_count>"
+    var domParser = new DOMParser();
+    
+    //Parse the XML string into an XMLDocument object using
+    //the DOMParser.parseFromString() method.
+    var xmlDocument = domParser.parseFromString(xmlsource, "text/xml");
+    console.log(xmlDocument);
+
+
+
+}
+
+function retrive(){
+
+    var myNode = document.getElementById("authors");
+    /*
+    if ( myobj != null)
+    { myobj.remove();}
+
+    else 
+    {console.log("the authors are : " +myobj);}
+    */
+    /*
+    if(document.getElementById("authors")){
+        alert("Element exists");
+    } else {
+        alert("Element does not exist");
+    }
+
+    */
+    /*
+    while (myNode.firstChild) {
+        //console.log("the authors are : " +myNode.firstChild.nodeValue);
+          alert( "the authors are : " +myNode.firstChild.nodeValue );
+        myNode.removeChild(myNode.lastChild);
+      }
+
+    */
+    var root = document.querySelector('authors'),
+        iter = document.createNodeIterator(root, NodeFilter.SHOW_TEXT),
+        textnode;
+
+    // print all text nodes
+    while (textnode = iter.nextNode()) {
+      console.log(textnode.textContent)
+    }
+
+
+}
+
+function createNode(element) {
+      
+      return document.createElement(element);
+  }
+
+  function append(parent, el) {
+    return parent.appendChild(el);
+  }
+function ftech(){
+   //retrive()
+  const ul = document.getElementById('authors');
+  const url = 'https://randomuser.me/api/?results=3';
+  fetch(url)
+  .then((resp) => resp.json())
+  .then(function(data) {
+    let authors = data.results;
+    return authors.map(function(author) {
+      let li = createNode('li'),
+          img = createNode('img'),
+          span = createNode('span');
+      img.src = author.picture.medium;
+      span.innerHTML = `${author.name.first} ${author.name.last}`;
+      append(li, img);
+      append(li, span);
+      append(ul, li);
+    })
+  })
+  .catch(function(error) {
+    console.log(JSON.stringify(error));
+  });   
+}
+
+function booksfromgdr(){
+  const app = document.getElementById('root')
+
+  const logo = document.createElement('img')
+  logo.src = 'logo.png'
+
+  const container = document.createElement('div')
+  container.setAttribute('class', 'container')
+
+  app.appendChild(logo)
+  app.appendChild(container)
+
+  var request = new XMLHttpRequest()
+  request.open('GET', 'https://ghibliapi.herokuapp.com/films', true)
+  request.onload = function () {
+  // Begin accessing JSON data here
+  var data = JSON.parse(this.response)
+  if (request.status >= 200 && request.status < 400) {
+    data.forEach((movie) => {
+      const card = document.createElement('div')
+      card.setAttribute('class', 'card')
+
+      const h1 = document.createElement('h1')
+      h1.textContent = movie.title
+
+      const p = document.createElement('p')
+      movie.description = movie.description.substring(0, 300)
+      p.textContent = `${movie.description}...`
+
+      container.appendChild(card)
+      card.appendChild(h1)
+      card.appendChild(p)
+    })
+  } else {
+    const errorMessage = document.createElement('marquee')
+    errorMessage.textContent = `Gah, it's not working!`
+    app.appendChild(errorMessage)
+  }
+  }
+
+  request.send()
+
+    /*
+    <input type="button" value="Get Book Information" id="getButton" onclick=ftech() />
+    <input type="button" value="check" id="getButton" onclick= booksfromgdr() />
+
+
+    <div id="root">
+      <img src="logo.png" />
+      <div class="container"></div>
+
+    */
+
+}
+
+function testrun() {
+
+    var key = "qG4h3DZZk8h8kOq8GmtJQ"; // api key from good read
+		var secret = "rKQ5xgr45GbQY0mHJkbMXlpxgCOqRMQLBxQOs7EX0w";  // secrete key from goodread
+		var  useraccount = "chaowow";
+		var url = "https://www.goodreads.com/book/author/show/18541?format=xml&key=" + key;
+
+	 	//document.addEventListener('DOMContentLoaded',testrun);
+    // document.getElementById ('getButton')   
+
+
+
+    var req = new XMLHttpRequest();
+
+    request.open('GET',url,true);
+    //request.responseType = 'text';
+
+    // var usrIn = {searchIn : null};
+    // usrIn.searchIn = document.getElementById(searchIn).value;
+    var toSend = JSON.stringify(usrIn);
+
+    
+
+    request.addEventListener('load', function (){ if(request.status >= 200 && request.status <400){
+       var dataBack = JSON.parse(request.responseText);
+       console.log(dataBack);
+       // document.getElementById("ratingOUT")    
+      } else { console.log ("Error in network :"+ request.responseText );}
+    
+    
+     } );
+
+    request.send();
+    event.preventDafault();
+
+}
+</script>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  <h1>Authors</h1>
+  <ul id="authors"></ul>
+ 
+
+  <input type="button" value="readXML" id="getButton" onclick= readxml() />
+
+
+  
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,72 @@
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title> XML File </title>
+    <xml ID="GoodreadsXML" SRC="../goodreads.xml"></xml>
+
+
+   <script>
+   function readxml(){
+
+    const fileSelector = document.getElementById('file-selector');
+    fileSelector.addEventListener('change', (event) => {
+    const fileList = event.target.files;
+    
+    console.log(fileList);
+  });
+        
+   }
+
+   function checkingbooks () {
+      var myXML, authorNode, nameNode , booksNode, bookNode;
+      var penNode,nameNode,display, rootNode,myNodes;
+
+      myXML= document.all("GoodreadsXML").XMLDocument;
+      alert (myXML);
+      console.log (myXML);
+      //rootNode = myXML.documentElement;
+
+      myNodes=myXML.getElementsByTagName("books");
+      for(var counter=0;counter<myNodes.length;counter++) {
+              display += myNodes.item(counter).firstChild.nodeValue + "\n";
+        }
+      document.show.me.value=display;
+
+        /*
+              authorNode = myXML.documentElement
+              aidNode = penNode.lastChild 
+              nameNode = authorNode.lastChild
+              bookNode = booksbooksNode.firstChild
+              display =nameNode.firstChild.nodeValue;
+              document.show.me.value=display
+        */
+   }
+
+   </script>
+
+
+
+</head>
+<body>
+  <h1>Read the file </h1>
+ 
+
+ 
+
+
+  <input type="file" id="file-selector" multiple />
+        </br>
+        </br>
+        </br>     
+
+
+</body>
+
+</div>
+<div>
+<input type="button" value="checking the books" id="getButton" onclick= checkingbooks() />
+</div> 
+
+</body>
+</html>

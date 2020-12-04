@@ -1,0 +1,1758 @@
+<GoodreadsResponse>
+<Request>
+<authentication>true</authentication>
+<key>
+<![CDATA[ qG4h3DZZk8h8kOq8GmtJQ ]]>
+</key>
+<method>
+<![CDATA[ review_recent_reviews ]]>
+</method>
+</Request>
+<reviews>
+<review>
+<id>3451902813</id>
+<user>
+<id>38668911</id>
+<uri>kca://profile:goodreads/A132LANJ67K8SG</uri>
+<name>Caitlin</name>
+<display_name>Caitlin (CMAReads)</display_name>
+<location/>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/38668911-caitlin-cmareads ]]>
+</link>
+<image_url>
+<![CDATA[ https://images.gr-assets.com/users/1513180759p3/38668911.jpg ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://images.gr-assets.com/users/1513180759p2/38668911.jpg ]]>
+</small_image_url>
+<has_image>true</has_image>
+</user>
+<book>
+<id type="integer">51178403</id>
+<isbn>1250231647</isbn>
+<isbn13>9781250231642</isbn13>
+<text_reviews_count type="integer">362</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v3.CnJhMYPpnyqe0zJP</uri>
+<title>More Than Maybe</title>
+<title_without_series>More Than Maybe</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/51178403-more-than-maybe</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day>21</publication_day>
+<publication_year>2020</publication_year>
+<publication_month>7</publication_month>
+<average_rating>4</average_rating>
+<ratings_count>516</ratings_count>
+<authors>
+<author>
+<id>17130322</id>
+<name>Erin Hahn</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1522544341p5/17130322.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1522544341p2/17130322.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/17130322.Erin_Hahn ]]>
+</link>
+<average_rating>3.90</average_rating>
+<ratings_count>4084</ratings_count>
+<text_reviews_count>1443</text_reviews_count>
+</author>
+</authors>
+<published>2020</published>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="125877070" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:51:48 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:51:48 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ Thanks to Wednesday Books for the free review copy. All opinions are my own. <br/><br/>I was so excited to review this book by Hahn because I loved You'd Be Mine last year, and I enjoyed this one just as much. She puts so many music references in this book that I just loved. I think it really adds to the expe ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451902813 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451902813 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451901911</id>
+<user>
+<id>95416437</id>
+<uri>kca://profile:goodreads/APCNYDJ96CHDS</uri>
+<name>Kathy</name>
+<display_name>Kathy Mccalmon</display_name>
+<location>Marietta, MS</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/95416437-kathy-mccalmon ]]>
+</link>
+<image_url>
+<![CDATA[ https://images.gr-assets.com/users/1555970534p3/95416437.jpg ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://images.gr-assets.com/users/1555970534p2/95416437.jpg ]]>
+</small_image_url>
+<has_image>true</has_image>
+</user>
+<book>
+<id type="integer">54497060</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">15</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v3.Ktk6YRkq2m9ZtGZP</uri>
+<title>Sanmere Shifters: Paranormal Romance Collection</title>
+<title_without_series>Sanmere Shifters: Paranormal Romance Collection</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/54497060-sanmere-shifters</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>4</average_rating>
+<ratings_count>15</ratings_count>
+<authors>
+<author>
+<id>18045163</id>
+<name>Lola Gabriel</name>
+<role/>
+<image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png ]]>
+</image_url>
+<small_image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/18045163.Lola_Gabriel ]]>
+</link>
+<average_rating>4.28</average_rating>
+<ratings_count>4954</ratings_count>
+<text_reviews_count>1882</text_reviews_count>
+</author>
+</authors>
+<published/>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="310028271" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:51:11 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:51:14 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ This is a collection of paranormal romance. the stories have shape shifters, secret babies and soul mates. These stories are all very exciting and full of action and adventure.<br/><br/>I received a free copy of this book via Booksprout and am voluntarily leaving a review. ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451901911 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451901911 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451901480</id>
+<user>
+<id>91613393</id>
+<uri>kca://profile:goodreads/AXB4M88KGXHNF</uri>
+<name>Lyne</name>
+<display_name>Lyne Donovan</display_name>
+<location>Prosper, TX</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/91613393-lyne-donovan ]]>
+</link>
+<image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<has_image>false</has_image>
+</user>
+<book>
+<id type="integer">44074800</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">3018</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.5wBTqrRYA2Bolj5pZXnTig</uri>
+<title>The Southern Book Club's Guide to Slaying Vampires</title>
+<title_without_series>The Southern Book Club's Guide to Slaying Vampires</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584222716l/44074800._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584222716l/44074800._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/44074800-the-southern-book-club-s-guide-to-slaying-vampires</link>
+<num_pages>400</num_pages>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day>7</publication_day>
+<publication_year>2020</publication_year>
+<publication_month>4</publication_month>
+<average_rating>3</average_rating>
+<ratings_count>15621</ratings_count>
+<authors>
+<author>
+<id>4826394</id>
+<name>Grady Hendrix</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1542284521p5/4826394.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1542284521p2/4826394.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/4826394.Grady_Hendrix ]]>
+</link>
+<average_rating>3.86</average_rating>
+<ratings_count>82872</ratings_count>
+<text_reviews_count>15798</text_reviews_count>
+</author>
+</authors>
+<published>2020</published>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="297712493" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:50:54 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:51:25 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ Fun, highly entertaining read. ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451901480 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451901480 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451901062</id>
+<user>
+<id>118641523</id>
+<uri>kca://profile:goodreads/A3SV7STFE1XH77</uri>
+<name>Haley</name>
+<display_name>Haley</display_name>
+<location>Conway, NC</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/118641523-haley ]]>
+</link>
+<image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<has_image>false</has_image>
+</user>
+<book>
+<id type="integer">6487308</id>
+<isbn>0385738935</isbn>
+<isbn13>9780385738934</isbn13>
+<text_reviews_count type="integer">17432</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.3hpVvsOyg6Uhgi7ae86yCw</uri>
+<title>Fallen (Fallen, #1)</title>
+<title_without_series>Fallen</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440619649l/6487308._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440619649l/6487308._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/6487308-fallen</link>
+<num_pages>452</num_pages>
+<format>Hardcover</format>
+<edition_information>1st Edition</edition_information>
+<publisher>Delacorte Press</publisher>
+<publication_day>8</publication_day>
+<publication_year>2009</publication_year>
+<publication_month>12</publication_month>
+<average_rating>3</average_rating>
+<ratings_count>463150</ratings_count>
+<authors>
+<author>
+<id>2905297</id>
+<name>Lauren Kate</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1502298656p5/2905297.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1502298656p2/2905297.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/2905297.Lauren_Kate ]]>
+</link>
+<average_rating>3.81</average_rating>
+<ratings_count>1041580</ratings_count>
+<text_reviews_count>47507</text_reviews_count>
+</author>
+</authors>
+<published>2009</published>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="384508998" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:50:38 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:51:21 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ Kept me on my toes. Loved the book. ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451901062 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451901062 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451900470</id>
+<user>
+<id>63869454</id>
+<uri>kca://profile:goodreads/A26AHEK263UL6D</uri>
+<name>Jenny</name>
+<display_name>Jenny</display_name>
+<location>Sugar Land, TX</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/63869454-jenny ]]>
+</link>
+<image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<has_image>false</has_image>
+</user>
+<book>
+<id type="integer">53079977</id>
+<isbn>1250754577</isbn>
+<isbn13>9781250754578</isbn13>
+<text_reviews_count type="integer">66</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v3.xu2PsyKI2_fRKk1R</uri>
+<title>The Shadows</title>
+<title_without_series>The Shadows</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586442237l/53079977._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586442237l/53079977._SX50_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/53079977-the-shadows</link>
+<num_pages>10</num_pages>
+<format>Audiobook</format>
+<edition_information>Unabridged</edition_information>
+<publisher>Macmillan Audio </publisher>
+<publication_day>7</publication_day>
+<publication_year>2020</publication_year>
+<publication_month>7</publication_month>
+<average_rating>3</average_rating>
+<ratings_count>75</ratings_count>
+<authors>
+<author>
+<id>7938829</id>
+<name>Alex North</name>
+<role/>
+<image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png ]]>
+</image_url>
+<small_image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/7938829.Alex_North ]]>
+</link>
+<average_rating>4.06</average_rating>
+<ratings_count>59888</ratings_count>
+<text_reviews_count>8988</text_reviews_count>
+</author>
+</authors>
+<published>2020</published>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="208600755" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:50:12 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:50:12 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ Another great suspense/thriller! The Shadows starts off so strong it sucks you right in. The first scene is a child driving past a murder scene as the driver slows down to make sure the child gets a good look. It goes back and forth from past to present. I like this type of book because it gives ins ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451900470 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451900470 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451900441</id>
+<user>
+<id>109751402</id>
+<uri>kca://profile:goodreads/A1BYN7ZGCRP3H7</uri>
+<name>aspeccharactersoftheday</name>
+<display_name>aspeccharactersoftheday</display_name>
+<location/>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/109751402-aspeccharactersoftheday ]]>
+</link>
+<image_url>
+<![CDATA[ https://images.gr-assets.com/users/1580922135p3/109751402.jpg ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://images.gr-assets.com/users/1580922135p2/109751402.jpg ]]>
+</small_image_url>
+<has_image>true</has_image>
+</user>
+<book>
+<id type="integer">43685659</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">21</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.it-wmvmjMSmtCtRbAMfpYw</uri>
+<title>In Any Light (The Rowan Harbor Cycle, #6.5)</title>
+<title_without_series>In Any Light</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548210404l/43685659._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548210404l/43685659._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/43685659-in-any-light</link>
+<num_pages>52</num_pages>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day>7</publication_day>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<average_rating>3</average_rating>
+<ratings_count>139</ratings_count>
+<authors>
+<author>
+<id>16897949</id>
+<name>Sam Burns</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1498845381p5/16897949.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1498845381p2/16897949.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/16897949.Sam_Burns ]]>
+</link>
+<average_rating>4.04</average_rating>
+<ratings_count>10096</ratings_count>
+<text_reviews_count>1614</text_reviews_count>
+</author>
+</authors>
+<published>2019</published>
+</book>
+<rating>0</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf exclusive="false" id="355907631" name="asexual" review_shelf_id="3090583166" sortable="false"/>
+<shelf exclusive="true" id="356135721" name="featured" review_shelf_id="3090583105" sortable="false"/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:50:11 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:50:33 -0700 2020</date_updated>
+<read_count>0</read_count>
+<body>
+<![CDATA[ <a target='_blank' href='https://aspeccharactersoftheday.tumblr.com/post/624114035451985920/isla-mackenzie-from-in-any-light-is-asexual' rel='nofollow'>https://aspeccharactersoftheday.tumbl...</a> ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451900441 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451900441 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451900288</id>
+<user>
+<id>90772441</id>
+<uri>kca://profile:goodreads/AW8QJSLVEPNXD</uri>
+<name>Ricardo</name>
+<display_name>Ricardo Fernandez</display_name>
+<location>Orland Park, IL</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/90772441-ricardo-fernandez ]]>
+</link>
+<image_url>
+<![CDATA[ https://images.gr-assets.com/users/1545278375p3/90772441.jpg ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://images.gr-assets.com/users/1545278375p2/90772441.jpg ]]>
+</small_image_url>
+<has_image>true</has_image>
+</user>
+<book>
+<id type="integer">9509287</id>
+<isbn>0446573108</isbn>
+<isbn13>9780446573108</isbn13>
+<text_reviews_count type="integer">1608</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.ZFDWLSX5q9GucaQexURzeA</uri>
+<title>The Sixth Man (Sean King and Michelle Maxwell, #5)</title>
+<title_without_series>The Sixth Man</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/9509287-the-sixth-man</link>
+<num_pages>416</num_pages>
+<format>Hardcover</format>
+<edition_information/>
+<publisher>Grand Central Publishing</publisher>
+<publication_day>19</publication_day>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<average_rating>4</average_rating>
+<ratings_count>34919</ratings_count>
+<authors>
+<author>
+<id>9291</id>
+<name>David Baldacci</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1557427264p5/9291.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1557427264p2/9291.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/9291.David_Baldacci ]]>
+</link>
+<average_rating>4.07</average_rating>
+<ratings_count>1788754</ratings_count>
+<text_reviews_count>99938</text_reviews_count>
+</author>
+</authors>
+<published>2011</published>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="294962237" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at>Sun Jul 19 00:00:00 -0700 2020</read_at>
+<date_added>Sun Jul 19 19:50:05 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:50:48 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ Wow! I can't believe there is only one more in the awesome series! ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451900288 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451900288 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451900222</id>
+<user>
+<id>100200004</id>
+<uri>kca://profile:goodreads/A3EYJ9TP8R1AYD</uri>
+<name>Jessica</name>
+<display_name>Jessica Ready</display_name>
+<location>Brisbane, 04, Australia</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/100200004-jessica-ready ]]>
+</link>
+<image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<has_image>false</has_image>
+</user>
+<book>
+<id type="integer">53218523</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">1</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v3.dWlI4laG6_Wz0fCR</uri>
+<title>Captor (City of Sin, #1)</title>
+<title_without_series>Captor</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587397151l/53218523._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587397151l/53218523._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/53218523-captor</link>
+<num_pages>204</num_pages>
+<format>Kindle Edition</format>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year>2020</publication_year>
+<publication_month>4</publication_month>
+<average_rating>4</average_rating>
+<ratings_count>2</ratings_count>
+<authors>
+<author>
+<id>16866317</id>
+<name>Jenny Lynn</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1507559729p5/16866317.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1507559729p2/16866317.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/16866317.Jenny_Lynn ]]>
+</link>
+<average_rating>3.98</average_rating>
+<ratings_count>134</ratings_count>
+<text_reviews_count>47</text_reviews_count>
+</author>
+</authors>
+<published>2018</published>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="325298197" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at>Mon Jul 20 19:50:25 -0700 2020</read_at>
+<date_added>Sun Jul 19 19:50:02 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:50:25 -0700 2020</date_updated>
+<read_count>3</read_count>
+<body>
+<![CDATA[ Review: <br/>This book was different from anything that I have ever read before. This was something I really liked about it, I had never read a dark romance with the same kind of plot line as this one which I found to be quite unique. Overall I would give this book 4/5 ⭐'s. I loved the characters and the ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451900222 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451900222 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451900168</id>
+<user>
+<id>10901572</id>
+<uri>kca://profile:goodreads/AASLZJ310812T</uri>
+<name>Cynthia</name>
+<display_name>Cynthia</display_name>
+<location/>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/10901572-cynthia ]]>
+</link>
+<image_url>
+<![CDATA[ https://images.gr-assets.com/users/1456110160p3/10901572.jpg ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://images.gr-assets.com/users/1456110160p2/10901572.jpg ]]>
+</small_image_url>
+<has_image>true</has_image>
+</user>
+<book>
+<id type="integer">28588125</id>
+<isbn>1506700136</isbn>
+<isbn13>9781506700137</isbn13>
+<text_reviews_count type="integer">192</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.Gl_-5oxHsIAZymZ7X9XWEw</uri>
+<title>Avatar: The Last Airbender: Smoke and Shadow (Avatar: The Last Airbender, #4)</title>
+<title_without_series>Avatar: The Last Airbender: Smoke and Shadow</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296375l/28588125._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296375l/28588125._SX50_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/28588125-avatar</link>
+<num_pages>240</num_pages>
+<format>Hardcover</format>
+<edition_information>Library Edition</edition_information>
+<publisher>Dark Horse Books</publisher>
+<publication_day>4</publication_day>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<average_rating>4</average_rating>
+<ratings_count>2165</ratings_count>
+<authors>
+<author>
+<id>68959</id>
+<name>Gene Luen Yang</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1415919636p5/68959.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1415919636p2/68959.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/68959.Gene_Luen_Yang ]]>
+</link>
+<average_rating>4.10</average_rating>
+<ratings_count>289203</ratings_count>
+<text_reviews_count>24309</text_reviews_count>
+</author>
+</authors>
+<published>2016</published>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="35917265" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:49:59 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:50:42 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ Ahh the best one, so far. Gripping and satisfying. ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451900168 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451900168 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451899739</id>
+<user>
+<id>30344797</id>
+<uri>kca://profile:goodreads/A3HGTMHHPCZ2WF</uri>
+<name>Someone Else</name>
+<display_name>Someone Else</display_name>
+<location/>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/30344797-someone-else ]]>
+</link>
+<image_url>
+<![CDATA[ https://images.gr-assets.com/users/1577953511p3/30344797.jpg ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://images.gr-assets.com/users/1577953511p2/30344797.jpg ]]>
+</small_image_url>
+<has_image>true</has_image>
+</user>
+<book>
+<id type="integer">43255080</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">10</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.MHtrlL8q1y5KsAEpGcJ-zA</uri>
+<title>Skeleton Knight in Another World, Light Novel Vol. 1 (Skeleton Knight in Another World [Light Novel], #1)</title>
+<title_without_series>Skeleton Knight in Another World, Light Novel Vol. 1</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/43255080-skeleton-knight-in-another-world-light-novel-vol-1</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>4</average_rating>
+<ratings_count>269</ratings_count>
+<authors>
+<author>
+<id>16679205</id>
+<name>Enki Hakari</name>
+<role/>
+<image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png ]]>
+</image_url>
+<small_image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/16679205.Enki_Hakari ]]>
+</link>
+<average_rating>4.06</average_rating>
+<ratings_count>743</ratings_count>
+<text_reviews_count>35</text_reviews_count>
+</author>
+</authors>
+<published/>
+</book>
+<rating>3</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="98432194" review_shelf_id=""/>
+<shelf exclusive="false" id="347245275" name="litrpg" review_shelf_id="3090582620" sortable="false"/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:49:42 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:51:00 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ Solid entertaining genre piece that kept me engaged but didn't really stand out in any memorable way. ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451899739 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451899739 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451899628</id>
+<user>
+<id>40802938</id>
+<uri>kca://profile:goodreads/AJF8VGTWMB2UE</uri>
+<name>Syretta</name>
+<display_name>Syretta Adams</display_name>
+<location>The United States</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/40802938-syretta-adams ]]>
+</link>
+<image_url>
+<![CDATA[ https://images.gr-assets.com/users/1515308563p3/40802938.jpg ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://images.gr-assets.com/users/1515308563p2/40802938.jpg ]]>
+</small_image_url>
+<has_image>true</has_image>
+</user>
+<book>
+<id type="integer">54543024</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">7</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v3.lvrUdjbFKaAFA9tT</uri>
+<title>A Young Savage Touched My Soul</title>
+<title_without_series>A Young Savage Touched My Soul</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/54543024-a-young-savage-touched-my-soul</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>4</average_rating>
+<ratings_count>29</ratings_count>
+<authors>
+<author>
+<id>15613956</id>
+<name>Nikqua</name>
+<role/>
+<image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png ]]>
+</image_url>
+<small_image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/15613956.Nikqua ]]>
+</link>
+<average_rating>4.63</average_rating>
+<ratings_count>6480</ratings_count>
+<text_reviews_count>1173</text_reviews_count>
+</author>
+</authors>
+<published/>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="132866182" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at>Sun Jul 19 19:49:37 -0700 2020</read_at>
+<date_added>Sun Jul 19 19:49:37 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:51:04 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ <strong>I loved it!!</strong><br/><br/>I loved this story. Sincere was bae all day. I'm glad Sydney got her act right because she was delusional. This so cute that I wanted more. This was a great read. ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451899628 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451899628 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451899560</id>
+<user>
+<id>69699625</id>
+<uri>kca://profile:goodreads/A137BHNNK33IKL</uri>
+<name>Theola</name>
+<display_name>Theola</display_name>
+<location>Albuquerque, NM</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/69699625-theola ]]>
+</link>
+<image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png ]]>
+</small_image_url>
+<has_image>false</has_image>
+</user>
+<book>
+<id type="integer">54555751</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">14</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v3.HDXXWwJOObF6HA6y</uri>
+<title>Forbidden Doctor (Forbidden Fairy Tales #4)</title>
+<title_without_series>Forbidden Doctor</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594919285l/54555751._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594919285l/54555751._SX50_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/54555751-forbidden-doctor</link>
+<num_pages/>
+<format>Kindle Edition</format>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year>2020</publication_year>
+<publication_month/>
+<average_rating>4</average_rating>
+<ratings_count>17</ratings_count>
+<authors>
+<author>
+<id>19187351</id>
+<name>R.S. Elliot</name>
+<role/>
+<image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png ]]>
+</image_url>
+<small_image_url nophoto="true">
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/19187351.R_S_Elliot ]]>
+</link>
+<average_rating>4.03</average_rating>
+<ratings_count>1691</ratings_count>
+<text_reviews_count>365</text_reviews_count>
+</author>
+</authors>
+<published>2020</published>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="227555865" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:49:35 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:49:46 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ I loved this story so much!! It’s a great addition to the forbidden series. Adrian and Stevie have amazing chemistry together. Even with the struggles they both have they manage to let love prevail and make it work. I can’t wait for the next book.<br/><br/>I received a free copy of this book via Booksprout an ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451899560 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451899560 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451899251</id>
+<user>
+<id>85716082</id>
+<uri>kca://profile:goodreads/A1WQAKH89BHOUG</uri>
+<name>C.B.</name>
+<display_name>C.B.</display_name>
+<location/>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/85716082-c-b ]]>
+</link>
+<image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<has_image>false</has_image>
+</user>
+<book>
+<id type="integer">54544399</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">23</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v3.eRrMryZznNPmAvtR</uri>
+<title>MAGNUS: A BBW Panther Shifter Romance</title>
+<title_without_series>MAGNUS: A BBW Panther Shifter Romance</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594834133l/54544399._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594834133l/54544399._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/54544399-magnus</link>
+<num_pages>76</num_pages>
+<format>ebook</format>
+<edition_information/>
+<publisher>Amazon</publisher>
+<publication_day>19</publication_day>
+<publication_year>2020</publication_year>
+<publication_month>7</publication_month>
+<average_rating>4</average_rating>
+<ratings_count>26</ratings_count>
+<authors>
+<author>
+<id>19697735</id>
+<name>Erin Havoc</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1586351638p5/19697735.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1586351638p2/19697735.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/19697735.Erin_Havoc ]]>
+</link>
+<average_rating>4.26</average_rating>
+<ratings_count>2155</ratings_count>
+<text_reviews_count>972</text_reviews_count>
+</author>
+</authors>
+<published>2020</published>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="278894983" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:49:23 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:49:32 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ When you meet your mate, the universe makes sense. Sen Magnus Callahan has taken on shifter rights for his agenda after coming out as a shifter. He recognizes the challenges, but he wants to help shifters find their mates. He wants to open up relationships between shifters and humans. Karen works wi ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451899251 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451899251 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451898912</id>
+<user>
+<id>115154406</id>
+<uri>kca://profile:goodreads/A16SIO5N1ZS9IM</uri>
+<name>Stephanie</name>
+<display_name>Stephanie Elyachar</display_name>
+<location>Overland Park, KS</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/115154406-stephanie-elyachar ]]>
+</link>
+<image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<has_image>false</has_image>
+</user>
+<book>
+<id type="integer">13547180</id>
+<isbn>145162137X</isbn>
+<isbn13>9781451621372</isbn13>
+<text_reviews_count type="integer">10805</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.BSJBMGgntGdQCvKfwSlizw</uri>
+<title>Brain on Fire: My Month of Madness</title>
+<title_without_series>Brain on Fire: My Month of Madness</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353173297l/13547180._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353173297l/13547180._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/13547180-brain-on-fire</link>
+<num_pages>250</num_pages>
+<format>Hardcover</format>
+<edition_information/>
+<publisher>Free Press</publisher>
+<publication_day>13</publication_day>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<average_rating>4</average_rating>
+<ratings_count>142230</ratings_count>
+<authors>
+<author>
+<id>5778057</id>
+<name>Susannah Cahalan</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1353287968p5/5778057.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1353287968p2/5778057.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/5778057.Susannah_Cahalan ]]>
+</link>
+<average_rating>4.04</average_rating>
+<ratings_count>167695</ratings_count>
+<text_reviews_count>13286</text_reviews_count>
+</author>
+</authors>
+<published>2012</published>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="373237381" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:49:10 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:50:42 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ Scary that one day your feeling fine and then bam your life is on a tailspin of experiences beyond ones belief. ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451898912 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451898912 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451898516</id>
+<user>
+<id>3433488</id>
+<uri>kca://profile:goodreads/A29Z7TYIGU58OX</uri>
+<name>Gael</name>
+<display_name>Gael</display_name>
+<location>The United States</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/3433488-gael ]]>
+</link>
+<image_url>
+<![CDATA[ https://images.gr-assets.com/users/1297882440p3/3433488.jpg ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://images.gr-assets.com/users/1297882440p2/3433488.jpg ]]>
+</small_image_url>
+<has_image>true</has_image>
+</user>
+<book>
+<id type="integer">29953779</id>
+<isbn>031629005X</isbn>
+<isbn13>9780316290050</isbn13>
+<text_reviews_count type="integer">1</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.48HR44fcBREan0yAPOxHtQ</uri>
+<title>15th Affair (Women's Murder Club #15)</title>
+<title_without_series>15th Affair</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466570971l/29953779._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466570971l/29953779._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/29953779-15th-affair</link>
+<num_pages>400</num_pages>
+<format>ebook</format>
+<edition_information/>
+<publisher>Little Brown and Company</publisher>
+<publication_day>2</publication_day>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<average_rating>4</average_rating>
+<ratings_count>14</ratings_count>
+<authors>
+<author>
+<id>3780</id>
+<name>James Patterson</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1468347205p5/3780.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1468347205p2/3780.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/3780.James_Patterson ]]>
+</link>
+<average_rating>3.98</average_rating>
+<ratings_count>6099058</ratings_count>
+<text_reviews_count>309210</text_reviews_count>
+</author>
+</authors>
+<published>2016</published>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="10471379" review_shelf_id=""/>
+<shelf exclusive="false" id="32920355" name="3-5-stars" review_shelf_id="3090581358" sortable="false"/>
+<shelf exclusive="false" id="10496994" name="cuz-its-a-series" review_shelf_id="3090581367" sortable="false"/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at>Sun Jul 19 19:49:12 -0700 2020</read_at>
+<date_added>Sun Jul 19 19:48:54 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:49:14 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body> 3.5 </body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451898516 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451898516 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451898247</id>
+<user>
+<id>820897</id>
+<uri>kca://profile:goodreads/A1V8F2PA5MOS0Y</uri>
+<name>James</name>
+<display_name>James Varghese</display_name>
+<location>The United States</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/820897-james-varghese ]]>
+</link>
+<image_url>
+<![CDATA[ https://images.gr-assets.com/users/1515365947p3/820897.jpg ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://images.gr-assets.com/users/1515365947p2/820897.jpg ]]>
+</small_image_url>
+<has_image>true</has_image>
+</user>
+<book>
+<id type="integer">53493900</id>
+<isbn nil="true"/>
+<isbn13>9781534318021</isbn13>
+<text_reviews_count type="integer">9</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v3.aHIyPX3bM3A-SfOH</uri>
+<title>Postal: The Complete Collection</title>
+<title_without_series>Postal: The Complete Collection</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/53493900-postal</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day/>
+<publication_year/>
+<publication_month/>
+<average_rating>4</average_rating>
+<ratings_count>34</ratings_count>
+<authors>
+<author>
+<id>19185002</id>
+<name>Bryan Edward Hill</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1591225462p5/19185002.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1591225462p2/19185002.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/19185002.Bryan_Edward_Hill ]]>
+</link>
+<average_rating>3.70</average_rating>
+<ratings_count>9062</ratings_count>
+<text_reviews_count>1124</text_reviews_count>
+</author>
+</authors>
+<published/>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="8538153" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:48:42 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:49:45 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ This was ... surprisingly engrossing. Some Deus ex machina stuff at times to move the plot forward but genuinely an interesting world to explore. ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451898247 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451898247 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451898229</id>
+<user>
+<id>1911457</id>
+<uri>kca://profile:goodreads/A1IT681MIE1QWO</uri>
+<name>Alicia</name>
+<display_name>Alicia</display_name>
+<location/>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/1911457-alicia ]]>
+</link>
+<image_url>
+<![CDATA[ https://images.gr-assets.com/users/1231984730p3/1911457.jpg ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://images.gr-assets.com/users/1231984730p2/1911457.jpg ]]>
+</small_image_url>
+<has_image>true</has_image>
+</user>
+<book>
+<id type="integer">36223860</id>
+<isbn>1250186927</isbn>
+<isbn13>9781250186928</isbn13>
+<text_reviews_count type="integer">2534</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1._2dnzunLlYMNdIZepzk6ZQ</uri>
+<title>Artificial Condition (The Murderbot Diaries, #2)</title>
+<title_without_series>Artificial Condition</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/36223860-artificial-condition</link>
+<num_pages>158</num_pages>
+<format>Hardcover</format>
+<edition_information/>
+<publisher>Tor.com</publisher>
+<publication_day>8</publication_day>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<average_rating>4</average_rating>
+<ratings_count>21738</ratings_count>
+<authors>
+<author>
+<id>87305</id>
+<name>Martha Wells</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1397566224p5/87305.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1397566224p2/87305.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/87305.Martha_Wells ]]>
+</link>
+<average_rating>4.22</average_rating>
+<ratings_count>197783</ratings_count>
+<text_reviews_count>22900</text_reviews_count>
+</author>
+</authors>
+<published>2018</published>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="5668657" review_shelf_id=""/>
+<shelf exclusive="false" id="4689939" name="science-fiction" review_shelf_id="3090581255" sortable="false"/>
+<shelf exclusive="false" id="5054795" name="fiction" review_shelf_id="3090581117" sortable="false"/>
+<shelf exclusive="false" id="352365978" name="read-2020" review_shelf_id="3090581187" sortable="false"/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Fri Jul 17 00:00:00 -0700 2020</started_at>
+<read_at>Sat Jul 18 00:00:00 -0700 2020</read_at>
+<date_added>Sun Jul 19 19:48:42 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:51:51 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ Murderbot goes to the place that made him what he is to find out what really happened. He meets some characters along the way that help him deepen his logical processes and give us more glimpses at his neuroses (my favorite parts). Again I find Murderbot incredibly hilarious and deeply relatable. ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451898229 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451898229 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451898041</id>
+<user>
+<id>99479892</id>
+<uri>kca://profile:goodreads/A18DUIWE0MWSND</uri>
+<name>Urja</name>
+<display_name>Urja Gandhi</display_name>
+<location>India</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/99479892-urja-gandhi ]]>
+</link>
+<image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<has_image>false</has_image>
+</user>
+<book>
+<id type="integer">54444603</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">34</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v3.qRHsJWDXM3us_RTZ</uri>
+<title>Sakthi</title>
+<title_without_series>Sakthi</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594231616l/54444603._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594231616l/54444603._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/54444603-sakthi</link>
+<num_pages>220</num_pages>
+<format>Kindle Edition</format>
+<edition_information/>
+<publisher/>
+<publication_day>8</publication_day>
+<publication_year>2020</publication_year>
+<publication_month>7</publication_month>
+<average_rating>4</average_rating>
+<ratings_count>36</ratings_count>
+<authors>
+<author>
+<id>7210414</id>
+<name>Vignesh SV</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1593192917p5/7210414.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1593192917p2/7210414.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/7210414.Vignesh_SV ]]>
+</link>
+<average_rating>4.34</average_rating>
+<ratings_count>77</ratings_count>
+<text_reviews_count>58</text_reviews_count>
+</author>
+</authors>
+<published>2020</published>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="323017100" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:48:35 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:48:53 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ BOOK NAME: Sakthi- The Chosen Hexad<br/>AUTHOR: Vignesh SV<br/>FORMAT: Kindle<br/>GENRE: Mythological Fiction<br/><br/> ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451898041 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451898041 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451898021</id>
+<user>
+<id>21316310</id>
+<uri>kca://profile:goodreads/A10YX4567R3GCZ</uri>
+<name>Debbie</name>
+<display_name>Debbie</display_name>
+<location/>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/21316310-debbie ]]>
+</link>
+<image_url>
+<![CDATA[ https://images.gr-assets.com/users/1371246323p3/21316310.jpg ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://images.gr-assets.com/users/1371246323p2/21316310.jpg ]]>
+</small_image_url>
+<has_image>true</has_image>
+</user>
+<book>
+<id type="integer">49564422</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">58</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v3.OSKSlLoazLQfuTcU</uri>
+<title>Montana Homecoming (The Wildes of Birch Bay Book 6)</title>
+<title_without_series>Montana Homecoming</title_without_series>
+<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/49564422-montana-homecoming</link>
+<num_pages/>
+<format/>
+<edition_information/>
+<publisher/>
+<publication_day>9</publication_day>
+<publication_year>2020</publication_year>
+<publication_month>7</publication_month>
+<average_rating>4</average_rating>
+<ratings_count>111</ratings_count>
+<authors>
+<author>
+<id>6473776</id>
+<name>Kim Law</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1346515148p5/6473776.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1346515148p2/6473776.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/6473776.Kim_Law ]]>
+</link>
+<average_rating>4.16</average_rating>
+<ratings_count>28185</ratings_count>
+<text_reviews_count>2383</text_reviews_count>
+</author>
+</authors>
+<published>2020</published>
+</book>
+<rating>5</rating>
+<votes>0</votes>
+<spoiler_flag>false</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="68747590" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at/>
+<read_at/>
+<date_added>Sun Jul 19 19:48:34 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:48:44 -0700 2020</date_updated>
+<read_count>1</read_count>
+<body>
+<![CDATA[ “I deserve love, Cord. True love. And I deserve happiness and a life filled with knowing that the man I choose to be with would walk through fire for me.”<br/><br/>Maggie is a woman who knows what she wants and she’s not going to settle for less. Cord on the other hand, has convinced himself he’s not capable ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451898021 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451898021 ]]>
+</link>
+<owned>0</owned>
+</review>
+<review>
+<id>3451897975</id>
+<user>
+<id>118641523</id>
+<uri>kca://profile:goodreads/A3SV7STFE1XH77</uri>
+<name>Haley</name>
+<display_name>Haley</display_name>
+<location>Conway, NC</location>
+<link>
+<![CDATA[ https://www.goodreads.com/user/show/118641523-haley ]]>
+</link>
+<image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png ]]>
+</image_url>
+<small_image_url>
+<![CDATA[ https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png ]]>
+</small_image_url>
+<has_image>false</has_image>
+</user>
+<book>
+<id type="integer">11870085</id>
+<isbn nil="true"/>
+<isbn13 nil="true"/>
+<text_reviews_count type="integer">139202</text_reviews_count>
+<uri>kca://book/amzn1.gr.book.v1.6rIwidkUTORGkQo3jY4dcg</uri>
+<title>The Fault in Our Stars</title>
+<title_without_series>The Fault in Our Stars</title_without_series>
+<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360206420l/11870085._SX98_.jpg</image_url>
+<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360206420l/11870085._SY75_.jpg</small_image_url>
+<large_image_url/>
+<link>https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars</link>
+<num_pages>313</num_pages>
+<format>Hardcover</format>
+<edition_information/>
+<publisher>Dutton Books</publisher>
+<publication_day>10</publication_day>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<average_rating>4</average_rating>
+<ratings_count>3270784</ratings_count>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1353452301p5/1406384.jpg ]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[ https://images.gr-assets.com/authors/1353452301p2/1406384.jpg ]]>
+</small_image_url>
+<link>
+<![CDATA[ https://www.goodreads.com/author/show/1406384.John_Green ]]>
+</link>
+<average_rating>4.04</average_rating>
+<ratings_count>6642993</ratings_count>
+<text_reviews_count>348343</text_reviews_count>
+</author>
+</authors>
+<published>2012</published>
+</book>
+<rating>4</rating>
+<votes>0</votes>
+<spoiler_flag>true</spoiler_flag>
+<spoilers_state>none</spoilers_state>
+<shelves>
+<shelf name="read" exclusive="true" id="384508998" review_shelf_id=""/>
+</shelves>
+<recommended_for/>
+<recommended_by/>
+<started_at>Fri Jun 12 00:00:00 -0700 2020</started_at>
+<read_at>Sat Jun 20 00:00:00 -0700 2020</read_at>
+<date_added>Sun Jul 19 19:48:32 -0700 2020</date_added>
+<date_updated>Sun Jul 19 19:50:16 -0700 2020</date_updated>
+<read_count>2</read_count>
+<body>
+<![CDATA[ It was okay. Not my type of book due to one of the main characters dying. I rather have a happy ending. ]]>
+</body>
+<comments_count/>
+<url>
+<![CDATA[ https://www.goodreads.com/review/show/3451897975 ]]>
+</url>
+<link>
+<![CDATA[ https://www.goodreads.com/review/show/3451897975 ]]>
+</link>
+<owned>0</owned>
+</review>
+</reviews>
+</GoodreadsResponse>

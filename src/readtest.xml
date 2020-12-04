@@ -1,0 +1,347 @@
+<GoodreadsResponse>
+<Request>
+<authentication>true</authentication>
+<key>
+<![CDATA[ qG4h3DZZk8h8kOq8GmtJQ ]]>
+</key>
+<method>
+<![CDATA[ series_show ]]>
+</method>
+</Request>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[ Drina ]]>
+</title>
+<description>
+<![CDATA[ ]]>
+</description>
+<note>
+<![CDATA[ ]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+<series_works>
+<series_work>
+<id>144541</id>
+<user_position>1</user_position>
+<work>
+<id>6990</id>
+<uri>kca://work/amzn1.gr.work.v1.H9XhZyWkTswFSx58YRbedA</uri>
+<best_book>
+<id>1151568</id>
+<title>Ballet for Drina</title>
+<author>
+<id>227840</id>
+<name>Jean Estoril</name>
+</author>
+<image_url>
+<![CDATA[ https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326125793l/1151568._SX98_.jpg ]]>
+</image_url>
+</best_book>
+<books_count>10</books_count>
+<original_publication_day/>
+<original_publication_month/>
+<original_publication_year>1957</original_publication_year>
+<original_title>Ballet for Drina </original_title>
+<ratings_count>827</ratings_count>
+<ratings_sum>3353</ratings_sum>
+<reviews_count>1679</reviews_count>
+<text_reviews_count>33</text_reviews_count>
+<average_rating/>
+</work>
+</series_work>
+<series_work>
+<id>155231</id>
+<user_position>2</user_position>
+<work>
+<id>1139050</id>
+<uri>kca://work/amzn1.gr.work.v1.sZVidMouyUKv4Xn5irZ5zQ</uri>
+<best_book>
+<id>1151567</id>
+<title>Drina's Dancing Year</title>
+<author>
+<id>227840</id>
+<name>Jean Estoril</name>
+</author>
+<image_url>
+<![CDATA[ https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326125976l/1151567._SX98_.jpg ]]>
+</image_url>
+</best_book>
+<books_count>10</books_count>
+<original_publication_day/>
+<original_publication_month/>
+<original_publication_year>1958</original_publication_year>
+<original_title>Drina's Dancing Year</original_title>
+<ratings_count>306</ratings_count>
+<ratings_sum>1250</ratings_sum>
+<reviews_count>562</reviews_count>
+<text_reviews_count>18</text_reviews_count>
+<average_rating/>
+</work>
+</series_work>
+<series_work>
+<id>144542</id>
+<user_position>3</user_position>
+<work>
+<id>6992</id>
+<uri>kca://work/amzn1.gr.work.v1.4r1TrhSxXVE0wGqeSpiVRw</uri>
+<best_book>
+<id>3143</id>
+<title>Drina Dances in Exile</title>
+<author>
+<id>227840</id>
+<name>Jean Estoril</name>
+</author>
+<image_url>
+<![CDATA[ https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318607032l/3143._SX98_.jpg ]]>
+</image_url>
+</best_book>
+<books_count>8</books_count>
+<original_publication_day/>
+<original_publication_month/>
+<original_publication_year>1959</original_publication_year>
+<original_title>Drina Dances in Exile</original_title>
+<ratings_count>299</ratings_count>
+<ratings_sum>1237</ratings_sum>
+<reviews_count>528</reviews_count>
+<text_reviews_count>15</text_reviews_count>
+<average_rating/>
+</work>
+</series_work>
+<series_work>
+<id>144543</id>
+<user_position>4</user_position>
+<work>
+<id>6993</id>
+<uri>kca://work/amzn1.gr.work.v1.HEamV3g5RVcp8cDKBgXsoQ</uri>
+<best_book>
+<id>3146</id>
+<title>Drina Dances in Italy</title>
+<author>
+<id>227840</id>
+<name>Jean Estoril</name>
+</author>
+<image_url>
+<![CDATA[ https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326125914l/3146._SX98_.jpg ]]>
+</image_url>
+</best_book>
+<books_count>10</books_count>
+<original_publication_day/>
+<original_publication_month/>
+<original_publication_year>1959</original_publication_year>
+<original_title>Drina Dances in Italy</original_title>
+<ratings_count>255</ratings_count>
+<ratings_sum>1043</ratings_sum>
+<reviews_count>470</reviews_count>
+<text_reviews_count>12</text_reviews_count>
+<average_rating/>
+</work>
+</series_work>
+<series_work>
+<id>144394</id>
+<user_position>5</user_position>
+<work>
+<id>121</id>
+<uri>kca://work/amzn1.gr.work.v1.hua9y9Czr2XE545UZk8tSQ</uri>
+<best_book>
+<id>3150</id>
+<title>Drina Dances Again</title>
+<author>
+<id>227840</id>
+<name>Jean Estoril</name>
+</author>
+<image_url>
+<![CDATA[ https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326126071l/3150._SY160_.jpg ]]>
+</image_url>
+</best_book>
+<books_count>10</books_count>
+<original_publication_day/>
+<original_publication_month/>
+<original_publication_year>1960</original_publication_year>
+<original_title>Drina Dances Again</original_title>
+<ratings_count>260</ratings_count>
+<ratings_sum>1063</ratings_sum>
+<reviews_count>478</reviews_count>
+<text_reviews_count>12</text_reviews_count>
+<average_rating/>
+</work>
+</series_work>
+<series_work>
+<id>144544</id>
+<user_position>6</user_position>
+<work>
+<id>6997</id>
+<uri>kca://work/amzn1.gr.work.v1.dNgr5dU5hycqjYCRGiI3Xw</uri>
+<best_book>
+<id>3151</id>
+<title>Drina Dances In New York</title>
+<author>
+<id>227840</id>
+<name>Jean Estoril</name>
+</author>
+<image_url>
+<![CDATA[ https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318607354l/3151._SX98_.jpg ]]>
+</image_url>
+</best_book>
+<books_count>7</books_count>
+<original_publication_day/>
+<original_publication_month/>
+<original_publication_year>1960</original_publication_year>
+<original_title>Drina Dances in New York</original_title>
+<ratings_count>174</ratings_count>
+<ratings_sum>727</ratings_sum>
+<reviews_count>366</reviews_count>
+<text_reviews_count>8</text_reviews_count>
+<average_rating/>
+</work>
+</series_work>
+<series_work>
+<id>167022</id>
+<user_position>7</user_position>
+<work>
+<id>3859327</id>
+<uri>kca://work/amzn1.gr.work.v1.niEPMiCvdX6J7b3fb1I04g</uri>
+<best_book>
+<id>3645</id>
+<title>Drina Dances in Paris</title>
+<author>
+<id>227840</id>
+<name>Jean Estoril</name>
+</author>
+<image_url>
+<![CDATA[ https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318607439l/3645._SX98_.jpg ]]>
+</image_url>
+</best_book>
+<books_count>5</books_count>
+<original_publication_day/>
+<original_publication_month/>
+<original_publication_year>1962</original_publication_year>
+<original_title>Drina Dances in Paris </original_title>
+<ratings_count>169</ratings_count>
+<ratings_sum>702</ratings_sum>
+<reviews_count>345</reviews_count>
+<text_reviews_count>9</text_reviews_count>
+<average_rating/>
+</work>
+</series_work>
+<series_work>
+<id>158664</id>
+<user_position>8</user_position>
+<work>
+<id>1733579</id>
+<uri>kca://work/amzn1.gr.work.v1.idf0VYhIOowG6WH3XCw-fA</uri>
+<best_book>
+<id>3156</id>
+<title>Drina Dances in Madeira</title>
+<author>
+<id>227840</id>
+<name>Jean Estoril</name>
+</author>
+<image_url>
+<![CDATA[ https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318607570l/3156._SY160_.jpg ]]>
+</image_url>
+</best_book>
+<books_count>3</books_count>
+<original_publication_day/>
+<original_publication_month/>
+<original_publication_year>1960</original_publication_year>
+<original_title>Drina Dances in Madeira </original_title>
+<ratings_count>153</ratings_count>
+<ratings_sum>626</ratings_sum>
+<reviews_count>312</reviews_count>
+<text_reviews_count>8</text_reviews_count>
+<average_rating/>
+</work>
+</series_work>
+<series_work>
+<id>144395</id>
+<user_position>9</user_position>
+<work>
+<id>122</id>
+<uri>kca://work/amzn1.gr.work.v1.wytAHlMwkHUCRL8A7dmMSg</uri>
+<best_book>
+<id>3644</id>
+<title>Drina Dances in Switzerland</title>
+<author>
+<id>227840</id>
+<name>Jean Estoril</name>
+</author>
+<image_url>
+<![CDATA[ https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326126353l/3644._SX98_.jpg ]]>
+</image_url>
+</best_book>
+<books_count>4</books_count>
+<original_publication_day/>
+<original_publication_month/>
+<original_publication_year>1963</original_publication_year>
+<original_title>Drina Dances in Switzerland </original_title>
+<ratings_count>177</ratings_count>
+<ratings_sum>714</ratings_sum>
+<reviews_count>352</reviews_count>
+<text_reviews_count>8</text_reviews_count>
+<average_rating/>
+</work>
+</series_work>
+<series_work>
+<id>144393</id>
+<user_position>10</user_position>
+<work>
+<id>120</id>
+<uri>kca://work/amzn1.gr.work.v1.VR6LY8Bnn0PV0p6Y8X9Tug</uri>
+<best_book>
+<id>3155</id>
+<title>Drina Goes on Tour</title>
+<author>
+<id>227840</id>
+<name>Jean Estoril</name>
+</author>
+<image_url>
+<![CDATA[ https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326126514l/3155._SX98_.jpg ]]>
+</image_url>
+</best_book>
+<books_count>4</books_count>
+<original_publication_day/>
+<original_publication_month/>
+<original_publication_year>1964</original_publication_year>
+<original_title>Drina Goes on Tour</original_title>
+<ratings_count>127</ratings_count>
+<ratings_sum>544</ratings_sum>
+<reviews_count>268</reviews_count>
+<text_reviews_count>8</text_reviews_count>
+<average_rating/>
+</work>
+</series_work>
+<series_work>
+<id>144392</id>
+<user_position>11</user_position>
+<work>
+<id>118</id>
+<uri>kca://work/amzn1.gr.work.v1.m1kntKdUh_UYFvkyLtxTJg</uri>
+<best_book>
+<id>3326</id>
+<title>Drina Ballerina</title>
+<author>
+<id>227840</id>
+<name>Jean Estoril</name>
+</author>
+<image_url>
+<![CDATA[ https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318607852l/3326._SX98_.jpg ]]>
+</image_url>
+</best_book>
+<books_count>2</books_count>
+<original_publication_day/>
+<original_publication_month/>
+<original_publication_year>1991</original_publication_year>
+<original_title>Drina Ballerina</original_title>
+<ratings_count>150</ratings_count>
+<ratings_sum>625</ratings_sum>
+<reviews_count>337</reviews_count>
+<text_reviews_count>13</text_reviews_count>
+<average_rating/>
+</work>
+</series_work>
+</series_works>
+</series>
+</GoodreadsResponse>

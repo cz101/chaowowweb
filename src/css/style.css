@@ -1,3 +1,20 @@
+
+:root {
+
+
+    --canvasw : 700px;
+   
+  }
+  
+  #canvas {
+  
+    height: 700px;
+    width: var(--canvasw);
+    margin: 0 auto;
+  
+  
+  }
+
 .section1, .section4, .section7 {
     padding: 0px;
 }
